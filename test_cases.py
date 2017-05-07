@@ -1,13 +1,7 @@
-# import os, sys
-# from pathlib import Path
-# root = Path(__file__).parents[1]   #get the root directory
-# root_model = os.path.join(str(root),'API_test')
-# sys.path.append(root_model)
-# print(root_model)
-
+import pytest
 import requests
-from configuration import *
-from helper import helper
+from helper import *
+from hub3c_api import *
 
 __author__      = "Muhammad Aditya Ridharrahman"
 __version__     = "1.0"
@@ -15,13 +9,36 @@ __email__       = "aditya.ridharrahman@geekseat.com.au"
 __status__      = "development"
 __last_update__ = "10th Feb 2017"
 
+print("######### Execute test cases #########")
 
-config      = GetConfig()
-base_url    = config.address
-helper      = helper.Helper()
+class TestAccount():
 
-timezone_response = requests.get(base_url+"Utility/TimeZoneList")
-helper.print_response(timezone_response)
+    account_api = AccountAPI()
+    util = Util()
 
-project_dashboard = requests.get(base_url+"Project/GetProjectListByProgress/514/753/0/InProgress")
-helper.print_response(project_dashboard)
+    def test_register(self):
+        pass
+
+    def test_login(self):
+        result = self.account_api.login()
+        self.util.print_response(result)
+
+    def test_account_list(self):
+        pass
+
+    @pytest.mark.skip(reason = "issue in login")
+    def test_logout(self):
+        result = self.account_api.logout()
+        self.util.print_response(result)
+
+class TestUtility():
+
+    util = Util()
+
+    def test_time_zone(self):
+        result = requests.get(url='http://119.9.53.234:6969/api/v1/Utility/TimeZoneList')
+        self.util.print_response(result)
+
+
+
+

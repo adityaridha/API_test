@@ -1,3 +1,5 @@
+import requests
+
 __author__      = "Muhammad Aditya Ridharrahman"
 __version__     = "1.0"
 __email__       = "aditya.ridharrahman@geekseat.com.au"
@@ -12,8 +14,20 @@ class GetConfig():
 
     @property
     def address(self):
-        BASE_URL_V1 = "http://119.9.53.234:6969/api/v1/"
-        return BASE_URL_V1
+        BASE_URL = "http://119.9.53.234:6969/api/v1/"
+        return BASE_URL
+
+    @property
+    def post_header(self):
+        HEADERS = {"Content-Type": "application/json", "Accept": "application/json"}
+        return HEADERS
+
+    def api_request(self, service_url, data_body , request_type = "post"):
+        if request_type == "post" :
+            request_result = requests.post(url = self.address + service_url, data = data_body, headers = self.post_header)
+        if request_type == "get":
+            print("get")
+        return request_result
 
 
 if __name__ == "__main__" :
