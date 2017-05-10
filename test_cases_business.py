@@ -10,30 +10,41 @@ __last_update__ = "10th Feb 2017"
 
 print("######### Execute Account test cases #########")
 
-class TestAccount():
+class TestBusiness():
 
     account_api = AccountAPI()
     util = Util()
 
 
-    def test_login(self):
-        result = self.account_api.login()
-        self.util.print_response(result)
-
-    def test_register(self):
+    def test_business(self):
         pass
 
-    def test_account_list(self):
+    def test_business_logo(self):
         pass
 
-    @pytest.mark.skip(reason = "issue in login")
-    def test_logout(self):
-        result = self.account_api.logout()
-        self.util.print_response(result)
-
-    def switch_account(self):
+    def test_business_team_member(self):
         pass
 
-    def forgot_password(self):
+    def test_connected_business(self):
         pass
 
+    def test_update_profile(self):
+        pass
+
+    def test_invite_team_member(self):
+        pass
+
+    def test_approve_connect_request(self):
+        pass
+
+    def test_resend_email_request(self):
+        pass
+
+    def test_reject_invitation(self):
+        pass
+
+    def test_business_profile(self):
+        pass
+
+    def test_simplified_business(self):
+        pass
