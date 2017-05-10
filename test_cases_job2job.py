@@ -33,4 +33,6 @@ class TestJob2job():
     def test_get_shortlisted_contractor(self):
         pass
 
+    def test_(self):
+        pass
 
