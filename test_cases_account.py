@@ -10,32 +10,35 @@ __last_update__ = "10th Feb 2017"
 
 print("######### Execute Account test cases #########")
 
+util = Util()
+
 class TestAccount():
 
     account_api = AccountAPI()
     util = Util()
 
-
     def test_login(self):
         result = self.account_api.login()
-        self.util.print_response(result)
+        self.util.print_response(result, verbose=True)
 
     def test_register(self):
         pass
 
     def test_account_list(self):
-        pass
+        result = self.account_api.account_list()
+        self.util.print_response(result, verbose=True)
 
-    @pytest.mark.skip(reason = "issue in login")
     def test_logout(self):
         result = self.account_api.logout()
-        self.util.print_response(result)
+        self.util.print_response(result, verbose=True)
 
-    def switch_account(self):
-        pass
+    def test_switch_account(self):
+        result = self.account_api.switch_account()
+        self.util.print_response(result, verbose=True)
 
-    def forgot_password(self):
-        pass
+    def test_forgot_password(self):
+        result = self.account_api.forgot_password()
+        self.util.print_response(result, verbose=True)
 
 
 
