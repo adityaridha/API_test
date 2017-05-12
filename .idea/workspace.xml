@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="420ea33c-ea25-4557-a239-5573bea1cec2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hub3c_api/document.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/API_test.iml" afterPath="$PROJECT_DIR$/.idea/API_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credentials/__init__.py" afterPath="$PROJECT_DIR$/credentials/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credentials/user_info.py" afterPath="$PROJECT_DIR$/credentials/user_info.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helper/util.py" afterPath="$PROJECT_DIR$/helper/util.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/account.py" afterPath="$PROJECT_DIR$/hub3c_api/account.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/dashboard.py" afterPath="$PROJECT_DIR$/hub3c_api/dashboard.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/job2job.py" afterPath="$PROJECT_DIR$/hub3c_api/job2job.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/projects.py" afterPath="$PROJECT_DIR$/hub3c_api/projects.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report.html" afterPath="$PROJECT_DIR$/report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_account.py" afterPath="$PROJECT_DIR$/test_cases_account.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,8 +86,8 @@
       <file leaf-file-name="account.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="25" column="86" lean-forward="false" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="86" />
+            <state relative-caret-position="420">
+              <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -564,6 +553,14 @@
       <option name="presentableId" value="Default" />
       <updated>1493952627623</updated>
     </task>
+    <task id="LOCAL-00001" summary="building test framwork">
+      <created>1494577799443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494577799443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -600,9 +597,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20989583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20989583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -634,7 +631,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add .gitgnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .gitgnore" />
+    <MESSAGE value="building test framwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="building test framwork" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -990,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="25" column="86" lean-forward="false" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="86" />
+        <state relative-caret-position="420">
+          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

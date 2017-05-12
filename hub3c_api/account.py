@@ -38,7 +38,7 @@ class AccountAPI():
 
 if __name__ == "__main__" :
     account = AccountAPI()
-    print(account.login())
+    print(account.login().text)
     print(account.logout())
     print(account.account_list().json())
     print(account.switch_account().status_code)
