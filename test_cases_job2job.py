@@ -12,7 +12,7 @@ print("######### Execute Account test cases #########")
 
 class TestJob2job():
 
-    job2job_api = Job2jobAPI()
+    job2job_api = Job2jobEmployerAPI()
     util = Util()
 
     def test_get_project_list(self):
