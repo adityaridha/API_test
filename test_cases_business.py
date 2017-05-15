@@ -8,25 +8,29 @@ __email__       = "aditya.ridharrahman@geekseat.com.au"
 __status__      = "development"
 __last_update__ = "10th Feb 2017"
 
-print("######### Execute Account test cases #########")
+print("######### Execute Account business cases #########")
 
 class TestBusiness():
 
-    account_api = AccountAPI()
+    business = BusinessAPI()
     util = Util()
 
 
-    def test_business(self):
+    def test_get_business(self):
+        result = self.business.get_business()
+        self.util.print_response(result, verbose = True)
+
+    @pytest.mark.skip(reason="not ready")
+    def test_get_business_logo(self):
         pass
 
-    def test_business_logo(self):
-        pass
-
-    def test_business_team_member(self):
-        pass
+    def test_get_business_team_member(self):
+        result = self.business.get_team_member()
+        self.util.print_response(result, verbose=True)
 
     def test_connected_business(self):
-        pass
+        result = self.business.get_connected_business()
+        self.util.print_response(result, verbose=True)
 
     def test_update_profile(self):
         pass

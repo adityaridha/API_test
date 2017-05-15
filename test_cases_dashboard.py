@@ -8,15 +8,16 @@ __email__       = "aditya.ridharrahman@geekseat.com.au"
 __status__      = "development"
 __last_update__ = "10th Feb 2017"
 
-print("######### Execute Account test cases #########")
+print("######### Execute dashboard test cases #########")
 
 class TestDashboard():
 
-    account_api = AccountAPI()
+    dashboard_api = DashboardAPI()
     util = Util()
 
     def test_dashboard(self):
-        pass
+        self.dashboard_api.get_dashboard()
+        self.util.print_response(result, verbose=True)
 
     def test_pending_invitation(self):
         pass

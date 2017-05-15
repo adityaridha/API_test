@@ -21,6 +21,7 @@ class TestAccount():
         result = self.account_api.login()
         self.util.print_response(result, verbose=True)
 
+    @pytest.mark.skip(reason="test")
     def test_register(self):
         pass
 

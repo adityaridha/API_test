@@ -10,7 +10,7 @@ __last_update__ = "10th Feb 2017"
 class GetConfig():
 
     def __init__(self):
-        print("Set up connection")
+        pass
 
     @property
     def address(self):
