@@ -12,27 +12,42 @@ print("######### Execute Account test cases #########")
 
 class TestJob2job():
 
-    job2job_api = Job2jobEmployerAPI()
+    employer = Job2jobEmployerAPI()
+    contractor = Job2jobContractorAPI()
     util = Util()
 
-    def test_get_project_list(self):
-        pass
+    def test_employer_get_project_list(self):
+        result = self.employer.project_list()
+        self.util.print_response(result)
 
-    def test_get_draft_project(self):
-        pass
+    def test_employer_get_draft_project(self):
+        result = self.employer.draft_project()
+        self.util.print_response(result)
 
-    def test_get_inprogress_project(self):
-        pass
+    def test_employer_get_inprogress_project(self):
+        result = self.employer.inprogress_project()
+        self.util.print_response(result)
 
-    def test_get_completed_project(self):
-        pass
+    def test_employer_get_posted_project(self):
+        result = self.employer.posted_project()
+        self.util.print_response(result)
 
-    def test_get_posted_project(self):
-        pass
+    def test_employer_get_shortlisted_contractor(self):
+        result = self.employer.shortlisted_contractor()
+        self.util.print_response(result)
 
-    def test_get_shortlisted_contractor(self):
-        pass
+    def test_employer_search_contractor(self):
+        result = self.employer.searh_contractor()
+        self.util.print_response(result)
 
-    def test_(self):
-        pass
+    def test_employer_post_job_time_material(self):
+        result = self.employer.post_job_time_material()
+        self.util.print_response(result)
 
+    def test_contractor_get_completed_project(self):
+        result = self.contractor.completed_project()
+        self.util.print_response(result)
+
+    def test_contractor_get_home(self):
+        result = self.contractor.get_home()
+        self.util.print_response(result)
