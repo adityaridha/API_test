@@ -25,8 +25,11 @@ class GetConfig():
     def api_request(self, service_url, data_body = "" , request_type = "POST"):
         if request_type == "POST" :
             request_result = requests.post(url = self.address + service_url, data = data_body, headers = self.post_header)
+        if request_type == "PUT":
+            request_result = requests.put(url = self.address + service_url, data = data_body, headers = self.post_header)
         if request_type == "GET":
             request_result = requests.get(url=self.address + service_url)
+
         return request_result
 
 

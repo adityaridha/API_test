@@ -16,11 +16,11 @@ class TestDashboard():
     util = Util()
 
     def test_dashboard(self):
-        self.dashboard_api.get_dashboard()
+        result = self.dashboard_api.get_dashboard()
         self.util.print_response(result, verbose=True)
 
-    def test_pending_invitation(self):
-        pass
-
-    def test_connect_request(self):
-        pass
+    # def test_pending_invitation(self):
+    #     pass
+    #
+    # def test_connect_request(self):
+    #     pass

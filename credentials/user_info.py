@@ -4,7 +4,7 @@ class Credentials():
         "email" : "marsha@freehub.com",
         "password" : "ZXasqw12",
         "system_user_id" : 753,
-        "business_id":514
+        "business_id":514,
         "project_sample":"Web project"
     }
 
@@ -13,7 +13,7 @@ class Credentials():
         "email" : "karin@freehub.com",
         "password" : "ZXasqw12",
         "system_user_id" : 754,
-        "business_id":515
+        "business_id":515,
         "project_sample":"Web project"
     }
 
