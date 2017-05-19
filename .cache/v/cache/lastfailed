@@ -1,1 +1,3 @@
-{}
+{
+  "test_cases_account.py::TestAccount::()::test_register": true
+}
