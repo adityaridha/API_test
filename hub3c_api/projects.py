@@ -145,15 +145,50 @@ class AttachmentAPI():
 
 class AgendaAPI():
 
+    config = GetConfig()
+    date = dt.datetime.utcfromtimestamp(time.time()).strftime("%Y/%m/%d %H:%M")
+
     def get_project_agenda(self):
         result = self.config.api_request(service_url="Project/GetProjectAgendaList/493/753", request_type="GET")
         return result
+
+    def add_agenda(self):
+        data = {"date":"{}".format(int(time.time())),"description":"New agenda","projectId":"1939","title":"From Python Script {}".format(self.date)}
+        result = self.config.api_request(service_url="Project/AddProjectAgenda/753", data_body=str(data), request_type="POST")
+        return result
+
+    def edit_agenda(self):
+
+        data = {"date":"1495159260",
+                "description":"New agenda",
+                "projectAgendaId":"246",
+                "projectid":"1939",
+                "title":"Edited From Python Script {}".format(self.date)}
+
+
+        result = self.config.api_request(service_url="Project/AddProjectAgenda/753", data_body=str(data), request_type="POST")
+        return result
+
+    def delete_agenda(self):
+        pass
 
 class TimesheetAPI():
 
     def get_project_timesheet(self):
         result = self.config.api_request(service_url="Project/ProjectTimesheet/514/753/0/493", request_type="GET")
         return result
+
+    def get_activity_timesheet(self):
+        pass
+
+    def get_team_member_activities(self):
+        pass
+
+    def add_timesheet(self):
+        pass
+
+    def edit_timesheet(self):
+        pass
 
 
 
@@ -187,5 +222,12 @@ if __name__ == "__main__" :
     # print(notes.update_project_note())
 
     #attachment
-    attachment = AttachmentAPI()
-    print(attachment.edit_attachment())
+    # attachment = AttachmentAPI()
+    # print(attachment.edit_attachment())
+
+    #agenda
+    agenda = AgendaAPI()
+    # print(agenda.get_project_agenda().json())
+    # print(agenda.add_agenda())
+    print(int(time.time())-1495072860)
+
