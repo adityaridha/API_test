@@ -1,0 +1,442 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1495529097475" stop="1495529112197">
+  <name>test_cases_projects</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1495529097475" status="passed" stop="1495529098158">
+      <name>TestProjects.test_get_project_list_new</name>
+      <attachments>
+        <attachment source="39168b44-3bbb-45f1-9c9b-14376f57b43b-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529098165" status="passed" stop="1495529099276">
+      <name>TestProjects.test_get_project_list_inprogress</name>
+      <attachments>
+        <attachment source="f450505f-b390-4ac3-8b79-9ef2e72b0779-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529099283" status="passed" stop="1495529099942">
+      <name>TestProjects.test_get_project_list_onhold</name>
+      <attachments>
+        <attachment source="8cd95a67-e8ad-4f88-841d-6e11ba5ce733-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529099948" status="passed" stop="1495529100207">
+      <name>TestProjects.test_get_project_list_cancelled</name>
+      <attachments>
+        <attachment source="127049a1-6965-4965-9acb-6b51ee2c7d34-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529100213" status="passed" stop="1495529101232">
+      <name>TestProjects.test_get_project_list_complete</name>
+      <attachments>
+        <attachment source="546aaec1-42a6-48d2-a3d8-e45e8c2407c0-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529101238" status="passed" stop="1495529101943">
+      <name>TestProjects.test_get_project_detail</name>
+      <attachments>
+        <attachment source="23c1dbe1-e137-469f-ae36-9123957ee6c0-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529101948" status="passed" stop="1495529103829">
+      <name>TestProjects.test_get_project_notification</name>
+      <attachments>
+        <attachment source="a1aa08e1-3997-4d3c-ab71-a9906d1af3d3-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529103840" status="passed" stop="1495529104094">
+      <name>TestActivities.test_get_activities</name>
+      <attachments>
+        <attachment source="ef90903e-e560-45d7-ba4d-71ebbc1c6715-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529104102" status="canceled" stop="1495529104103">
+      <name>TestActivities.test_add_activity</name>
+      <failure>
+        <message>Skipped: Structure still not correct</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529104104" status="passed" stop="1495529104783">
+      <name>TestTeammember.test_get_team_member</name>
+      <attachments>
+        <attachment source="298506dd-fdd1-4e83-a6da-8074b1c2f75e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529104792" status="canceled" stop="1495529104793">
+      <name>TestTeammember.test_add_team_member</name>
+      <failure>
+        <message>Skipped: not ready</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529104794" status="canceled" stop="1495529104795">
+      <name>TestTeammember.test_delete_team_member</name>
+      <failure>
+        <message>Skipped: not ready</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529104797" status="passed" stop="1495529104799">
+      <name>TestTeammember.test_update_team_member</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529104800" status="passed" stop="1495529105807">
+      <name>TestBulletin.test_get_bulletin</name>
+      <attachments>
+        <attachment source="dcfb6ba0-2749-46c0-a878-6aa59cf41dbe-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529105815" status="passed" stop="1495529106045">
+      <name>TestBulletin.test_get_bulletin_comment</name>
+      <attachments>
+        <attachment source="a981ee02-8d6d-4fc4-999e-3fdf78c65f7a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529106051" status="passed" stop="1495529106298">
+      <name>TestBulletin.test_like_unlike_bulletin</name>
+      <attachments>
+        <attachment source="3dc17b83-8396-462e-8e7a-5f2c0efc6ee3-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529106313" status="passed" stop="1495529106996">
+      <name>TestBulletin.test_create_bulletin</name>
+      <attachments>
+        <attachment source="ee5213d4-d558-42aa-9d29-a449addd1a09-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529106998" status="passed" stop="1495529107254">
+      <name>TestBulletin.test_create_bulletin_comment</name>
+      <attachments>
+        <attachment source="f6dd6c15-1257-481d-b2df-d1bf4948f6c3-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529107256" status="passed" stop="1495529107527">
+      <name>TestBulletin.test_update_bulletin</name>
+      <attachments>
+        <attachment source="51c0eb9c-02b5-4e19-b33e-e98e7382b065-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529107535" status="canceled" stop="1495529107536">
+      <name>TestBulletin.test_delete_comment</name>
+      <failure>
+        <message>Skipped: not ready</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529107538" status="passed" stop="1495529107923">
+      <name>TestNotes.test_get_notes</name>
+      <attachments>
+        <attachment source="d3508506-417e-4795-8b44-9e35dd9e5662-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529107935" status="passed" stop="1495529108625">
+      <name>TestNotes.test_add_notes</name>
+      <attachments>
+        <attachment source="4bbcbeb8-2b41-417f-bfdd-2781fdad2a0a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529108630" status="passed" stop="1495529108902">
+      <name>TestNotes.test_update_notes</name>
+      <attachments>
+        <attachment source="161097ec-e050-4cd8-868f-f2da098713f8-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529108908" status="passed" stop="1495529109576">
+      <name>TestAttachment.test_get_attachment</name>
+      <attachments>
+        <attachment source="2f425029-c728-47b4-93d2-4c2d117e809e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529109604" status="passed" stop="1495529110260">
+      <name>TestAttachment.test_edit_attachment</name>
+      <attachments>
+        <attachment source="8e5973d7-dc57-4423-930d-cc53a0dcb728-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529110267" status="canceled" stop="1495529110268">
+      <name>TestAttachment.test_download_attachment</name>
+      <failure>
+        <message>Skipped: not ready</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529110269" status="canceled" stop="1495529110270">
+      <name>TestAttachment.test_upload_attachment</name>
+      <failure>
+        <message>Skipped: not ready</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529110271" status="canceled" stop="1495529110272">
+      <name>TestAttachment.test_delete_attachment</name>
+      <failure>
+        <message>Skipped: not ready</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529110273" status="passed" stop="1495529110936">
+      <name>TestAgenda.test_get_project_agenda</name>
+      <attachments>
+        <attachment source="60b16828-77b3-40ec-8d9c-411e7a040f51-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529110942" status="passed" stop="1495529111178">
+      <name>TestAgenda.test_add_project_agenda</name>
+      <attachments>
+        <attachment source="1c3b8571-c126-4385-b482-1d364c05a70e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529111184" status="passed" stop="1495529111434">
+      <name>TestAgenda.test_edit_project_agenda</name>
+      <attachments>
+        <attachment source="8573e261-9501-42a1-818c-de3971f304f7-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529111440" status="passed" stop="1495529112183">
+      <name>TestTimesheet.test_get_project_timesheet</name>
+      <attachments>
+        <attachment source="541479b9-15b1-4505-b52a-df42af66a794-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112189" status="passed" stop="1495529112191">
+      <name>TestTimesheet.test_get_activity_timesheet</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112191" status="passed" stop="1495529112193">
+      <name>TestTimesheet.test_get_team_member_activity</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112194" status="passed" stop="1495529112195">
+      <name>TestTimesheet.test_add_time_sheet</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112196" status="passed" stop="1495529112197">
+      <name>TestTimesheet.test_edit_timesheet</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

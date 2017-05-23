@@ -1,0 +1,36 @@
+{
+  "summary" : {
+    "reportName" : "Allure Report",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 7,
+      "passed" : 45,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "time" : {
+      "minDuration" : 1,
+      "maxDuration" : 2631,
+      "sumDuration" : 23423,
+      "start" : 1495450324929,
+      "stop" : 1495450348812,
+      "duration" : 23883
+    }
+  },
+  "environment" : [ ],
+  "history-trend" : [ {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 7,
+    "passed" : 45,
+    "unknown" : 0,
+    "total" : 52
+  } ],
+  "behaviors" : {
+    "total" : 0,
+    "items" : [ ]
+  },
+  "executors" : [ ],
+  "launches" : [ ]
+}

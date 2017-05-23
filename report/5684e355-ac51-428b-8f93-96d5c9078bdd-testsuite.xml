@@ -1,0 +1,18 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1495182272650" stop="1495182273061">
+  <name>test_cases_dashboard</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1495182272650" status="passed" stop="1495182273061">
+      <name>TestDashboard.test_dashboard</name>
+      <attachments>
+        <attachment source="0e7e61a2-633d-4f7d-a805-2b16966e770c-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

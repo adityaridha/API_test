@@ -48,7 +48,8 @@ class AccountAPI():
         print(email)
 
         with open('registration.csv', 'a', newline='') as csvfile:
-            registration_data = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            registration_data = csv.writer(csvfile, delimiter=',', quotechar='"'
+                                                                             '', quoting=csv.QUOTE_MINIMAL)
             registration_data.writerow([business,email])
 
         return registration_result

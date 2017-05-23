@@ -1,0 +1,42 @@
+{
+  "uid" : "119ebd09dd8db40c",
+  "name" : "TestUserProfile.test_logout",
+  "fullName" : "test_cases_user_profile.TestUserProfile.test_logout",
+  "historyId" : "1096550a050b3c17da2859a110ef60ed",
+  "time" : {
+    "start" : 1495450348463,
+    "stop" : 1495450348464,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Geekseat-Aditya"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6932-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_cases_user_profile"
+  }, {
+    "name" : "testClass",
+    "value" : "test_cases_user_profile"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestUserProfile.test_logout"
+  }, {
+    "name" : "package",
+    "value" : "test_cases_user_profile"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

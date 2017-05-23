@@ -1,0 +1,633 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 7,
+    "passed" : 45,
+    "unknown" : 0,
+    "total" : 52
+  },
+  "time" : {
+    "minDuration" : 1,
+    "maxDuration" : 2631,
+    "sumDuration" : 23423,
+    "start" : 1495450324929,
+    "stop" : 1495450348812,
+    "duration" : 23883
+  },
+  "children" : [ {
+    "uid" : "26b8047fee9b5a48",
+    "name" : "Default feature",
+    "time" : {
+      "minDuration" : 1,
+      "maxDuration" : 2631,
+      "sumDuration" : 23423,
+      "start" : 1495450324929,
+      "stop" : 1495450348812,
+      "duration" : 23883
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 7,
+      "passed" : 45,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "2bb23dd4d34ca1ed",
+      "name" : "Default story",
+      "time" : {
+        "minDuration" : 1,
+        "maxDuration" : 2631,
+        "sumDuration" : 23423,
+        "start" : 1495450324929,
+        "stop" : 1495450348812,
+        "duration" : 23883
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 7,
+        "passed" : 45,
+        "unknown" : 0,
+        "total" : 52
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "2df968db4f6de368",
+        "name" : "TestJob2job.test_employer_search_contractor",
+        "time" : {
+          "start" : 1495450337958,
+          "stop" : 1495450339000,
+          "duration" : 1042
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "8dfd034c33a762be",
+        "name" : "TestActivities.test_get_activities",
+        "time" : {
+          "start" : 1495450343702,
+          "stop" : 1495450344048,
+          "duration" : 346
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "9e80f7274da4d5d3",
+        "name" : "TestUserProfile.test_account_list",
+        "time" : {
+          "start" : 1495450348460,
+          "stop" : 1495450348462,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "3f068fc81a6ac8c8",
+        "name" : "TestProjects.test_get_project_notification",
+        "time" : {
+          "start" : 1495450342621,
+          "stop" : 1495450343684,
+          "duration" : 1063
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "806137ba074015c3",
+        "name" : "TestAccount.test_logout",
+        "time" : {
+          "start" : 1495450325973,
+          "stop" : 1495450326215,
+          "duration" : 242
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "288a20c403e59a3",
+        "name" : "TestBulletin.test_get_bulletin",
+        "time" : {
+          "start" : 1495450344496,
+          "stop" : 1495450344896,
+          "duration" : 400
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "fd38f231bcfe2f63",
+        "name" : "TestNotes.test_add_notes",
+        "time" : {
+          "start" : 1495450346869,
+          "stop" : 1495450347244,
+          "duration" : 375
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "82b40e4970a1a2a7",
+        "name" : "TestTeammember.test_delete_team_member",
+        "time" : {
+          "start" : 1495450344472,
+          "stop" : 1495450344474,
+          "duration" : 2
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "bc959cc934ada61e",
+        "name" : "TestUserProfile.test_register",
+        "time" : {
+          "start" : 1495450348458,
+          "stop" : 1495450348459,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1f883199646c39af",
+        "name" : "TestAttachment.test_upload_attachment",
+        "time" : {
+          "start" : 1495450348449,
+          "stop" : 1495450348451,
+          "duration" : 2
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "96f368d943cac6c7",
+        "name" : "TestAccount.test_account_list",
+        "time" : {
+          "start" : 1495450325730,
+          "stop" : 1495450325968,
+          "duration" : 238
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "55f5b70d4cfccdc7",
+        "name" : "TestJob2job.test_employer_get_shortlisted_contractor",
+        "time" : {
+          "start" : 1495450336828,
+          "stop" : 1495450337953,
+          "duration" : 1125
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "2d4a95db902cdcd6",
+        "name" : "TestAttachment.test_edit_attachment",
+        "time" : {
+          "start" : 1495450347927,
+          "stop" : 1495450348430,
+          "duration" : 503
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "2e9989c2f7979620",
+        "name" : "TestAttachment.test_download_attachment",
+        "time" : {
+          "start" : 1495450348444,
+          "stop" : 1495450348446,
+          "duration" : 2
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "df30cd94510f7ec4",
+        "name" : "TestProjects.test_get_project_list_onhold",
+        "time" : {
+          "start" : 1495450341180,
+          "stop" : 1495450341429,
+          "duration" : 249
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1e9fcc358443179e",
+        "name" : "TestBulletin.test_update_bulletin",
+        "time" : {
+          "start" : 1495450346214,
+          "stop" : 1495450346471,
+          "duration" : 257
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "4bbef5c9e1d592bb",
+        "name" : "TestBulletin.test_create_bulletin",
+        "time" : {
+          "start" : 1495450345532,
+          "stop" : 1495450345946,
+          "duration" : 414
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "819eb8c6026976dc",
+        "name" : "TestJob2job.test_employer_get_draft_project",
+        "time" : {
+          "start" : 1495450331031,
+          "stop" : 1495450332766,
+          "duration" : 1735
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "2071497cd8202b0e",
+        "name" : "TestTeammember.test_add_team_member",
+        "time" : {
+          "start" : 1495450344467,
+          "stop" : 1495450344469,
+          "duration" : 2
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "869dd4adf2dbb402",
+        "name" : "TestBusiness.test_get_business_team_member",
+        "time" : {
+          "start" : 1495450327340,
+          "stop" : 1495450327625,
+          "duration" : 285
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "f27cd6a2731cf521",
+        "name" : "TestBulletin.test_like_unlike_bulletin",
+        "time" : {
+          "start" : 1495450345166,
+          "stop" : 1495450345519,
+          "duration" : 353
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "90a6865854f57681",
+        "name" : "TestBulletin.test_delete_comment",
+        "time" : {
+          "start" : 1495450346485,
+          "stop" : 1495450346487,
+          "duration" : 2
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "119ebd09dd8db40c",
+        "name" : "TestUserProfile.test_logout",
+        "time" : {
+          "start" : 1495450348463,
+          "stop" : 1495450348464,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "d4956e56f9c00bf7",
+        "name" : "TestDashboard.test_dashboard",
+        "time" : {
+          "start" : 1495450328743,
+          "stop" : 1495450329042,
+          "duration" : 299
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "2c6a3bf8cd2151f9",
+        "name" : "TestUserProfile.test_login",
+        "time" : {
+          "start" : 1495450348454,
+          "stop" : 1495450348457,
+          "duration" : 3
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "3b1f42e26e66497b",
+        "name" : "TestNotes.test_get_notes",
+        "time" : {
+          "start" : 1495450346489,
+          "stop" : 1495450346853,
+          "duration" : 364
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "e72b083129f912d5",
+        "name" : "TestAccount.test_login",
+        "time" : {
+          "start" : 1495450324929,
+          "stop" : 1495450325219,
+          "duration" : 290
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "399f210eaae00dde",
+        "name" : "TestJob2job.test_employer_post_job_time_material",
+        "time" : {
+          "start" : 1495450339005,
+          "stop" : 1495450339377,
+          "duration" : 372
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "916f3d70a63f6928",
+        "name" : "TestJob2job.test_employer_get_project_list",
+        "time" : {
+          "start" : 1495450329056,
+          "stop" : 1495450331026,
+          "duration" : 1970
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "992fab8d25686d53",
+        "name" : "TestJob2job.test_contractor_get_completed_project",
+        "time" : {
+          "start" : 1495450339382,
+          "stop" : 1495450339989,
+          "duration" : 607
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "b78aff33575cfe88",
+        "name" : "TestTeammember.test_update_team_member",
+        "time" : {
+          "start" : 1495450344476,
+          "stop" : 1495450344479,
+          "duration" : 3
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "514f3ce59c4dc8f8",
+        "name" : "TestAttachment.test_get_attachment",
+        "time" : {
+          "start" : 1495450347647,
+          "stop" : 1495450347912,
+          "duration" : 265
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "959fe9b9444bc009",
+        "name" : "TestBulletin.test_create_bulletin_comment",
+        "time" : {
+          "start" : 1495450345947,
+          "stop" : 1495450346200,
+          "duration" : 253
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "f322d3ad945640de",
+        "name" : "TestAccount.test_register",
+        "time" : {
+          "start" : 1495450325233,
+          "stop" : 1495450325715,
+          "duration" : 482
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "e07d0574ec8219c2",
+        "name" : "TestActivities.test_add_activity",
+        "time" : {
+          "start" : 1495450344064,
+          "stop" : 1495450344066,
+          "duration" : 2
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "dd96b17d77d1b07a",
+        "name" : "TestJob2job.test_employer_get_posted_project",
+        "time" : {
+          "start" : 1495450334195,
+          "stop" : 1495450336826,
+          "duration" : 2631
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1e212ef1e443defc",
+        "name" : "TestProjects.test_get_project_list_new",
+        "time" : {
+          "start" : 1495450340411,
+          "stop" : 1495450340693,
+          "duration" : 282
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "f9e26d61fd660de1",
+        "name" : "TestJob2job.test_contractor_get_home",
+        "time" : {
+          "start" : 1495450339994,
+          "stop" : 1495450340408,
+          "duration" : 414
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1b0b6f50f801484c",
+        "name" : "TestProjects.test_get_project_list_cancelled",
+        "time" : {
+          "start" : 1495450341439,
+          "stop" : 1495450341685,
+          "duration" : 246
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "94f4629a488c4ad1",
+        "name" : "TestAttachment.test_delete_attachment",
+        "time" : {
+          "start" : 1495450348452,
+          "stop" : 1495450348453,
+          "duration" : 1
+        },
+        "status" : "skipped",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "30fd95572d45a656",
+        "name" : "TestUtility.test_time_zone",
+        "time" : {
+          "start" : 1495450348465,
+          "stop" : 1495450348812,
+          "duration" : 347
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "eef84e9f9185bdd5",
+        "name" : "TestBusiness.test_get_business",
+        "time" : {
+          "start" : 1495450326915,
+          "stop" : 1495450327331,
+          "duration" : 416
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "f0fa4ad8f2c798bd",
+        "name" : "TestAccount.test_forgot_password",
+        "time" : {
+          "start" : 1495450326588,
+          "stop" : 1495450326906,
+          "duration" : 318
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1870330b71fc3dcc",
+        "name" : "TestProjects.test_get_project_detail",
+        "time" : {
+          "start" : 1495450342316,
+          "stop" : 1495450342607,
+          "duration" : 291
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "38ddc87f68d8bcbc",
+        "name" : "TestProjects.test_get_project_list_inprogress",
+        "time" : {
+          "start" : 1495450340706,
+          "stop" : 1495450341162,
+          "duration" : 456
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "80a05cfda9ccd282",
+        "name" : "TestJob2job.test_employer_get_inprogress_project",
+        "time" : {
+          "start" : 1495450332771,
+          "stop" : 1495450334192,
+          "duration" : 1421
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "60a57a1741b1d5e",
+        "name" : "TestBulletin.test_get_bulletin_comment",
+        "time" : {
+          "start" : 1495450344912,
+          "stop" : 1495450345152,
+          "duration" : 240
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "10f327a82fe48072",
+        "name" : "TestNotes.test_update_notes",
+        "time" : {
+          "start" : 1495450347258,
+          "stop" : 1495450347634,
+          "duration" : 376
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "d25a9af9cdd5991",
+        "name" : "TestProjects.test_get_project_list_complete",
+        "time" : {
+          "start" : 1495450341692,
+          "stop" : 1495450342299,
+          "duration" : 607
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "83001d735ab67ae7",
+        "name" : "TestBusiness.test_connected_business",
+        "time" : {
+          "start" : 1495450327640,
+          "stop" : 1495450328727,
+          "duration" : 1087
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "ee53d494ad7d844a",
+        "name" : "TestAccount.test_switch_account",
+        "time" : {
+          "start" : 1495450326220,
+          "stop" : 1495450326575,
+          "duration" : 355
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "8d19874725b53195",
+        "name" : "TestTeammember.test_get_team_member",
+        "time" : {
+          "start" : 1495450344069,
+          "stop" : 1495450344453,
+          "duration" : 384
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

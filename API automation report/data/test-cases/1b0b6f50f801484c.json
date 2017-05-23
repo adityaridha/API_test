@@ -1,0 +1,55 @@
+{
+  "uid" : "1b0b6f50f801484c",
+  "name" : "TestProjects.test_get_project_list_cancelled",
+  "fullName" : "test_cases_projects.TestProjects.test_get_project_list_cancelled",
+  "historyId" : "3c0ac734c37da3bfe53026688b04018d",
+  "time" : {
+    "start" : 1495450341439,
+    "stop" : 1495450341685,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "testStage" : {
+    "status" : "passed",
+    "attachments" : [ {
+      "uid" : "33de00ed2680055c",
+      "name" : "Captured stdout call",
+      "source" : "33de00ed2680055c.txt",
+      "type" : "text/plain",
+      "size" : 1859
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1
+  },
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Geekseat-Aditya"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6932-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_cases_projects"
+  }, {
+    "name" : "testClass",
+    "value" : "test_cases_projects"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestProjects.test_get_project_list_cancelled"
+  }, {
+    "name" : "package",
+    "value" : "test_cases_projects"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

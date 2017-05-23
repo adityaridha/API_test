@@ -3,36 +3,34 @@ import time
 import datetime as dt
 from configuration import *
 
-
+config = GetConfig()
+date = dt.datetime.utcfromtimestamp(time.time()).strftime("%Y/%m/%d %H:%M")
 
 class Job2jobEmployerAPI():
 
-    config = GetConfig()
-    date = dt.datetime.utcfromtimestamp(time.time()).strftime("%Y/%m/%d %H:%M")
-
     def project_list(self):
-        result = self.config.api_request(service_url="Job2Job/GetProjectList/514/753/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/GetProjectList/514/753/0", request_type="GET")
         return result
 
     def draft_project(self):
-        result = self.config.api_request(service_url="Job2Job/DraftProject/514/753/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/DraftProject/514/753/0", request_type="GET")
         return result
 
     def shortlisted_contractor(self):
-        result = self.config.api_request(service_url="Job2Job/ShortlistedContractor/514/753/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/ShortlistedContractor/514/753/0", request_type="GET")
         return result
 
     def posted_project(self):
-        result = self.config.api_request(service_url="Job2Job/PostedProject/514/753/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/PostedProject/514/753/0", request_type="GET")
         return result
 
     def inprogress_project(self):
-        result = self.config.api_request(service_url="Job2Job/InProgressProject/514/753/0",request_type="GET")
+        result = config.api_request(service_url="Job2Job/InProgressProject/514/753/0",request_type="GET")
         return result
 
     def searh_contractor(self):
         data = {"currency":"","hourlyRateFrom":"0.0","industry":"0","projectCompleted":"0","skills":[],"hourlyRateTo":"0.0"}
-        result = self.config.api_request(service_url="Job2Job/SearchContractor/514/753/0", data_body=str(data))
+        result = config.api_request(service_url="Job2Job/SearchContractor/514/753/0", data_body=str(data))
         return result
 
     def post_job_time_material(self, is_draft = False):
@@ -46,10 +44,10 @@ class Job2jobEmployerAPI():
                 "fixedPrice":"0","isDraft":"false",
                 "isHideJobFromContractor":"false",
                 "isProposedDateLater":"false",
-                "projectTitle":"From python automation {}".format(self.date),
+                "projectTitle":"From python automation {}".format(date),
                 "subSkills":["Software Accounting"]}
 
-        result = self.config.api_request(service_url="Job2Job/JobTimeMaterial/514/753/0",data_body= str(data))
+        result = config.api_request(service_url="Job2Job/JobTimeMaterial/514/753/0",data_body= str(data))
         return  result
 
     def edit_draft(self):
@@ -67,31 +65,29 @@ class Job2jobEmployerAPI():
 
 class Job2jobContractorAPI():
 
-    config = GetConfig()
-
     def get_home(self):
-        result = self.config.api_request(service_url="Job2Job/ContractorHome/515/754/0 ", request_type="GET")
+        result = config.api_request(service_url="Job2Job/ContractorHome/515/754/0 ", request_type="GET")
         return result
 
     def get_project (self):
-        result = self.config.api_request(service_url="Job2Job/ContractorShortlistProject/515/754/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/ContractorShortlistProject/515/754/0", request_type="GET")
         return result
 
     def profile_view (self):
-        result = self.config.api_request(service_url="Job2Job/ContractorProfileView/515/754/0/1", request_type="GET")
+        result = config.api_request(service_url="Job2Job/ContractorProfileView/515/754/0/1", request_type="GET")
         return result
 
     def project_inprogress (self):
-        result = self.config.api_request(service_url="Job2Job/ContractorInProgressProject/515/754/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/ContractorInProgressProject/515/754/0", request_type="GET")
         return result
 
     def completed_project (self):
-        result = self.config.api_request(service_url="Job2Job/ContractorCompletedProject/515/754/0", request_type="GET")
+        result = config.api_request(service_url="Job2Job/ContractorCompletedProject/515/754/0", request_type="GET")
         return result
 
     def search_job(self):
         data = {"currency":"","hourlyRateFrom":"0.0","industry":"0","skills":[],"hourlyRateTo":"0.0"}
-        result = self.config.api_request(service_url="Job2Job/SearchJob/515/754/0", data_body=str(data))
+        result = config.api_request(service_url="Job2Job/SearchJob/515/754/0", data_body=str(data))
         return result
 
 

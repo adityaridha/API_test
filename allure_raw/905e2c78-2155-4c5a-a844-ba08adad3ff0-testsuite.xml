@@ -1,0 +1,46 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1495529112198" stop="1495529112206">
+  <name>test_cases_user_profile</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1495529112198" status="passed" stop="1495529112200">
+      <name>TestUserProfile.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112201" status="passed" stop="1495529112202">
+      <name>TestUserProfile.test_register</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112203" status="passed" stop="1495529112204">
+      <name>TestUserProfile.test_account_list</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495529112205" status="passed" stop="1495529112206">
+      <name>TestUserProfile.test_logout</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20668-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,8 @@
+
+### Status Code : 200
+
+#### Header :
+{'Date': 'Tue, 23 May 2017 08:44:29 GMT', 'X-Powered-By': 'ASP.NET', 'Server': 'Kestrel', 'api-deprecated-versions': '1.0', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked'}
+
+#### Body :
+[{"teamMemberId":2958,"userId":2164,"userName":"Abigail Pennyworth","projectRole":"Front Man","photoProfile":"http://119.9.53.234:6969/api/v1/userprofile/2164/photo","isProjectOwner":true,"isOnline":false,"isUserAccessible":true,"encryptedUserId":"9yYkH7DOY9SEeQfmQm50CA==","userTimezone":"","hourlyRateCharge":100.0000,"hourlyRateCost":500.0000},{"teamMemberId":2045,"userId":754,"userName":"Karin Contractor","projectRole":"Contractor","photoProfile":"http://119.9.53.234:6969/api/v1/userprofile/754/photo","isProjectOwner":false,"isOnline":false,"isUserAccessible":true,"encryptedUserId":"G6DTaHxJrgjo1q725QUkHg==","userTimezone":"","hourlyRateCharge":0.5000,"hourlyRateCost":0.5000},{"teamMemberId":1025,"userId":753,"userName":"Marsha Emp","projectRole":"Project Owner","photoProfile":"http://119.9.53.234:6969/api/v1/userprofile/753/photo","isProjectOwner":true,"isOnline":false,"isUserAccessible":true,"encryptedUserId":"fdrTiBr1EmPVuI9QZCu9YA==","userTimezone":"","hourlyRateCharge":0.0000,"hourlyRateCost":0.0000},{"teamMemberId":3122,"userId":738,"userName":"Sadam Hombla","projectRole":"Dev","photoProfile":"http://119.9.53.234:6969/api/v1/userprofile/738/photo","isProjectOwner":false,"isOnline":false,"isUserAccessible":true,"encryptedUserId":"RoQ0yJGLdgK4w9Ih/VsqJA==","userTimezone":"Dateline Standard Time","hourlyRateCharge":500.0000,"hourlyRateCost":500.0000}]

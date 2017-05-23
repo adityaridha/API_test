@@ -1,0 +1,55 @@
+{
+  "uid" : "f0fa4ad8f2c798bd",
+  "name" : "TestAccount.test_forgot_password",
+  "fullName" : "test_cases_account.TestAccount.test_forgot_password",
+  "historyId" : "78980a685ffc8f612c689e6a553d0767",
+  "time" : {
+    "start" : 1495450326588,
+    "stop" : 1495450326906,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "testStage" : {
+    "status" : "passed",
+    "attachments" : [ {
+      "uid" : "b68eabc4cc86af87",
+      "name" : "Captured stdout call",
+      "source" : "b68eabc4cc86af87.txt",
+      "type" : "text/plain",
+      "size" : 576
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1
+  },
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Geekseat-Aditya"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6932-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_cases_account"
+  }, {
+    "name" : "testClass",
+    "value" : "test_cases_account"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAccount.test_forgot_password"
+  }, {
+    "name" : "package",
+    "value" : "test_cases_account"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

@@ -1,0 +1,114 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1495182273075" stop="1495182297014">
+  <name>test_cases_job2job</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1495182273075" status="passed" stop="1495182275519">
+      <name>TestJob2job.test_employer_get_project_list</name>
+      <attachments>
+        <attachment source="db0952f0-0d0e-450a-be8c-b5d19a9a7568-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182275532" status="passed" stop="1495182277343">
+      <name>TestJob2job.test_employer_get_draft_project</name>
+      <attachments>
+        <attachment source="bf963b2b-33e9-4fd7-9cd9-10d43263b3b6-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182277346" status="passed" stop="1495182279037">
+      <name>TestJob2job.test_employer_get_inprogress_project</name>
+      <attachments>
+        <attachment source="e204253d-d169-4e7f-a78c-9159c1bf161c-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182279043" status="passed" stop="1495182281954">
+      <name>TestJob2job.test_employer_get_posted_project</name>
+      <attachments>
+        <attachment source="9051af32-5b2c-4e1d-8a91-d1e740bcbdbc-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182281959" status="passed" stop="1495182283007">
+      <name>TestJob2job.test_employer_get_shortlisted_contractor</name>
+      <attachments>
+        <attachment source="1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182283015" status="passed" stop="1495182284441">
+      <name>TestJob2job.test_employer_search_contractor</name>
+      <attachments>
+        <attachment source="2a5fe2ea-f51d-44d8-b6e3-d4b7f5812544-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182284446" status="passed" stop="1495182284839">
+      <name>TestJob2job.test_employer_post_job_time_material</name>
+      <attachments>
+        <attachment source="3bc97092-ae04-4b09-b5ad-ebc525b0e651-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182284841" status="passed" stop="1495182285598">
+      <name>TestJob2job.test_contractor_get_completed_project</name>
+      <attachments>
+        <attachment source="5d4c77ef-bf03-46d0-9cb5-6ba760571d21-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1495182285603" status="passed" stop="1495182297014">
+      <name>TestJob2job.test_contractor_get_home</name>
+      <attachments>
+        <attachment source="af17866a-c477-433d-9da7-2e1b11bb1174-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14144-MainThread"/>
+        <label name="host" value="Geekseat-Aditya"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

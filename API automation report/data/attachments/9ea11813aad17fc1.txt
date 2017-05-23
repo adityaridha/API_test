@@ -1,0 +1,10 @@
+Gonzales, Wood and Gardner
+James.Allen@mailinator.com
+
+### Status Code : 200
+
+#### Header :
+{'Content-Type': 'application/json; charset=utf-8', 'Server': 'Kestrel', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 22 May 2017 10:51:32 GMT', 'X-Powered-By': 'ASP.NET', 'api-deprecated-versions': '1.0'}
+
+#### Body :
+{"meta":{"business":{"businessId":0,"profileLastUpdate":0,"teamMemberLastUpdate":0,"lastConnected":0,"lastRequested":0,"lastInvited":0},"user":{"userId":0,"profileLastUpdate":0},"job2Job":null},"status":{"type":"Success","message":"Account Created","fieldMessages":[]},"data":[{"fullName":"James Allen","photo":"http://119.9.53.234:6969/api/v1/userprofile/2262/photo?v=-62135596800","businessId":1765,"businessName":"Android Gonzales, Wood and Gardner","logo":"http://119.9.53.234:6969/api/v1/Business/Logo/1765?v=1495450293","userId":2262,"userType":1,"subscribedApps":[{"entityId":1,"entityType":"CRM","userType":"","isSubscribed":true},{"entityId":2,"entityType":"Project","userType":"","isSubscribed":true},{"entityId":3,"entityType":"Workflow","userType":"","isSubscribed":true},{"entityId":5,"entityType":"Document","userType":"","isSubscribed":true},{"entityId":11,"entityType":"File Transfer","userType":"","isSubscribed":true},{"entityId":12,"entityType":"Bulletin Board","userType":"","isSubscribed":true},{"entityId":15,"entityType":"MailChimp","userType":"","isSubscribed":true},{"entityId":17,"entityType":"Team Schedule","userType":"","isSubscribed":true},{"entityId":20,"entityType":"Video Call","userType":"","isSubscribed":true},{"entityId":21,"entityType":"Messages","userType":"","isSubscribed":true},{"entityId":23,"entityType":"Job2Job","userType":"","isSubscribed":true},{"entityId":24,"entityType":"Mediasphere","userType":"","isSubscribed":true},{"entityId":25,"entityType":"Hired1st","userType":"","isSubscribed":true},{"entityId":26,"entityType":"Empsense","userType":"","isSubscribed":true},{"entityId":27,"entityType":"HCM","userType":"","isSubscribed":true},{"entityId":28,"entityType":"Dynamic Form","userType":"","isSubscribed":true}]}]}

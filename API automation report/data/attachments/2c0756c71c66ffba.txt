@@ -1,0 +1,8 @@
+
+### Status Code : 200
+
+#### Header :
+{'Content-Type': 'application/json; charset=utf-8', 'Server': 'Kestrel', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 22 May 2017 10:51:32 GMT', 'X-Powered-By': 'ASP.NET', 'api-deprecated-versions': '1.0'}
+
+#### Body :
+{"meta":{"business":{"businessId":0,"profileLastUpdate":0,"teamMemberLastUpdate":0,"lastConnected":0,"lastRequested":0,"lastInvited":0},"user":{"userId":0,"profileLastUpdate":0},"job2Job":null},"status":{"type":"Success","message":null,"fieldMessages":[]},"data":[{"fullName":"Marsha Emp","photo":"http://119.9.53.234:6969/api/v1/userprofile/753/photo?v=1493750457","businessId":514,"businessName":"Marsha Business Employment BBBBBB CCCCCC","logo":"http://119.9.53.234:6969/api/v1/Business/Logo/514?v=1493919251","userId":753,"userType":1,"subscribedApps":[{"entityId":1,"entityType":"CRM","userType":"Employer","isSubscribed":true},{"entityId":5,"entityType":"Document","userType":"Employer","isSubscribed":true},{"entityId":12,"entityType":"Bulletin Board","userType":"Employer","isSubscribed":true},{"entityId":21,"entityType":"Messages","userType":"Employer","isSubscribed":true},{"entityId":23,"entityType":"Job2Job","userType":"Employer","isSubscribed":true},{"entityId":24,"entityType":"Mediasphere","userType":"Employer","isSubscribed":true},{"entityId":11,"entityType":"File Transfer","userType":"Employer","isSubscribed":true},{"entityId":2,"entityType":"Project","userType":"Employer","isSubscribed":true}]}]}

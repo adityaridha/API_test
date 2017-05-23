@@ -1,0 +1,8 @@
+
+### Status Code : 200
+
+#### Header :
+{'Content-Type': 'application/json; charset=utf-8', 'Server': 'Kestrel', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 22 May 2017 10:51:50 GMT', 'X-Powered-By': 'ASP.NET', 'api-deprecated-versions': '1.0'}
+
+#### Body :
+{"meta":{"business":{"businessId":0,"profileLastUpdate":0,"teamMemberLastUpdate":0,"lastConnected":0,"lastRequested":0,"lastInvited":0},"user":{"userId":0,"profileLastUpdate":0},"job2Job":null},"status":{"type":"Success","message":null,"fieldMessages":[]},"data":[{"projectId":493,"projectName":"Web project","proposedStart":1487192400,"proposedEnd":1514149200,"percentageComplete":7.14,"projectActivityCount":14,"projectActivityToDo":12,"projectActivityCompleted":2,"daysOverdue":216,"daysTotal":312,"daysElapsed":95,"statusTypeCode":"InProgress","statusTypeCodeId":2}]}

@@ -1,0 +1,55 @@
+{
+  "uid" : "55f5b70d4cfccdc7",
+  "name" : "TestJob2job.test_employer_get_shortlisted_contractor",
+  "fullName" : "test_cases_job2job.TestJob2job.test_employer_get_shortlisted_contractor",
+  "historyId" : "b7eecf3cc10a414cc4f218b9d2a56219",
+  "time" : {
+    "start" : 1495450336828,
+    "stop" : 1495450337953,
+    "duration" : 1125
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "testStage" : {
+    "status" : "passed",
+    "attachments" : [ {
+      "uid" : "55e3a77bd54a144f",
+      "name" : "Captured stdout call",
+      "source" : "55e3a77bd54a144f.txt",
+      "type" : "text/plain",
+      "size" : 23
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1
+  },
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Geekseat-Aditya"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6932-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_cases_job2job"
+  }, {
+    "name" : "testClass",
+    "value" : "test_cases_job2job"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestJob2job.test_employer_get_shortlisted_contractor"
+  }, {
+    "name" : "package",
+    "value" : "test_cases_job2job"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

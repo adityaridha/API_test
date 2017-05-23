@@ -1,0 +1,55 @@
+{
+  "uid" : "288a20c403e59a3",
+  "name" : "TestBulletin.test_get_bulletin",
+  "fullName" : "test_cases_projects.TestBulletin.test_get_bulletin",
+  "historyId" : "1b345777380f98374c7d2bad714cf88c",
+  "time" : {
+    "start" : 1495450344496,
+    "stop" : 1495450344896,
+    "duration" : 400
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "testStage" : {
+    "status" : "passed",
+    "attachments" : [ {
+      "uid" : "e5f5115956ddea07",
+      "name" : "Captured stdout call",
+      "source" : "e5f5115956ddea07.txt",
+      "type" : "text/plain",
+      "size" : 7092
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1
+  },
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Geekseat-Aditya"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6932-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_cases_projects"
+  }, {
+    "name" : "testClass",
+    "value" : "test_cases_projects"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBulletin.test_get_bulletin"
+  }, {
+    "name" : "package",
+    "value" : "test_cases_projects"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}
