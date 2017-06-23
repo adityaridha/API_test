@@ -1,8 +1,0 @@
-
-### Status Code : 200
-
-#### Header :
-{'Date': 'Tue, 23 May 2017 08:44:33 GMT', 'X-Powered-By': 'ASP.NET', 'Server': 'Kestrel', 'api-deprecated-versions': '1.0', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked'}
-
-#### Body :
-{"meta":{"business":{"businessId":0,"profileLastUpdate":0,"teamMemberLastUpdate":0,"lastConnected":0,"lastRequested":0,"lastInvited":0},"user":{"userId":0,"profileLastUpdate":0}},"status":{"type":"Success","message":"Success modify project bulletin comment","fieldMessages":[]},"data":""}

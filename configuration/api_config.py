@@ -14,7 +14,8 @@ class GetConfig():
 
     @property
     def address(self):
-        BASE_URL = "http://119.9.53.234:6969/api/v1/"
+        # BASE_URL = "http://119.9.53.234:6969/api/v1/"
+        BASE_URL = "http://54.206.115.140:6969/api/v1/"
         return BASE_URL
 
     @property

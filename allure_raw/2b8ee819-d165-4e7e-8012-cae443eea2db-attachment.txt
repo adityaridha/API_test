@@ -1,8 +1,0 @@
-
-### Status Code : 200
-
-#### Header :
-{'Date': 'Tue, 23 May 2017 08:44:09 GMT', 'X-Powered-By': 'ASP.NET', 'Server': 'Kestrel', 'api-deprecated-versions': '1.0', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked'}
-
-#### Body :
-{"meta":{"business":{"businessId":514,"profileLastUpdate":1493919251,"teamMemberLastUpdate":1493750457,"lastConnected":0,"lastRequested":0,"lastInvited":0},"user":{"userId":753,"profileLastUpdate":1493750457},"job2Job":null},"status":{"type":"Success","message":null,"fieldMessages":[]},"data":[{"connectedBusinessCount":16,"pendingInvitationCount":0,"connectRequestCount":0,"teamMemberCount":2}]}

@@ -1,206 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="420ea33c-ea25-4557-a239-5573bea1cec2" name="Default" comment="allure">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/12a8d67f2ac0ef6a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/17f3d3ef38b78354.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/1a3a7e793e6bfb3d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/224181e77612656d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/22994764fc88628c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/24f15b7872ac3f3f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/26e2ee098520c0a0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/2c0756c71c66ffba.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/33de00ed2680055c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/3801195de5f6146d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/3cb17f63cfb38dac.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/43797a6d58966b25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/51e5d4e353865062.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/539b3d143ed2e883.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/55e3a77bd54a144f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/5a6b8f6c1f07d81a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/60f8740525ef7c4b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/65ccf0510947a27b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/6ad914a678367c55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/6b5a731d12b51870.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/6c4db19c4faa36d5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/7d9ba353b278c291.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/80fcfb7860fbd90b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/8cfdd1fc46554fd5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/95de7b1d54eb3707.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/9dfb35086b118b8e.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/9ea11813aad17fc1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/a047f034dc60b3dd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/a5bae299854801f8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/a6e50cd04cea62b7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/ab4a54ba67aac5a3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/b122fd67b37d8bfd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/b4cc2c314b87f6cb.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/b68eabc4cc86af87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/c1ac39fde51548.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/d642d59d8ec189aa.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/dca5111aeb8bfb9d.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/dd06ab63d13c1659.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/e5f5115956ddea07.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/attachments/e9edbe4f002bfcf2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/behaviors.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/categories.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/graph.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/packages.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/10f327a82fe48072.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/119ebd09dd8db40c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/1870330b71fc3dcc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/1b0b6f50f801484c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/1e212ef1e443defc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/1e9fcc358443179e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/1f883199646c39af.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/2071497cd8202b0e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/288a20c403e59a3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/2c6a3bf8cd2151f9.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/2d4a95db902cdcd6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/2df968db4f6de368.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/2e9989c2f7979620.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/30fd95572d45a656.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/38ddc87f68d8bcbc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/399f210eaae00dde.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/3b1f42e26e66497b.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/3f068fc81a6ac8c8.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/4bbef5c9e1d592bb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/514f3ce59c4dc8f8.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/55f5b70d4cfccdc7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/60a57a1741b1d5e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/806137ba074015c3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/80a05cfda9ccd282.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/819eb8c6026976dc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/82b40e4970a1a2a7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/83001d735ab67ae7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/869dd4adf2dbb402.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/8d19874725b53195.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/8dfd034c33a762be.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/90a6865854f57681.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/916f3d70a63f6928.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/94f4629a488c4ad1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/959fe9b9444bc009.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/96f368d943cac6c7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/992fab8d25686d53.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/9e80f7274da4d5d3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/b78aff33575cfe88.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/bc959cc934ada61e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/d25a9af9cdd5991.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/d4956e56f9c00bf7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/dd96b17d77d1b07a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/df30cd94510f7ec4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/e07d0574ec8219c2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/e72b083129f912d5.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/ee53d494ad7d844a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/eef84e9f9185bdd5.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/f0fa4ad8f2c798bd.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/f27cd6a2731cf521.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/f322d3ad945640de.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/f9e26d61fd660de1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/test-cases/fd38f231bcfe2f63.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/timeline.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/widgets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/data/xunit.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/export/mail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/export/summary.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/history/history-trend.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/history/history.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/plugins/behaviors/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/plugins/packages/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/plugins/screen-diff/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/plugins/screen-diff/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API automation report/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/05b9dc4a-1c24-4de4-bb38-0d6307184c5e-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/127049a1-6965-4965-9acb-6b51ee2c7d34-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/161097ec-e050-4cd8-868f-f2da098713f8-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/1c3b8571-c126-4385-b482-1d364c05a70e-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/23c1dbe1-e137-469f-ae36-9123957ee6c0-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/27142238-2127-41ee-91e5-7bade90b526a-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/298506dd-fdd1-4e83-a6da-8074b1c2f75e-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/2b8ee819-d165-4e7e-8012-cae443eea2db-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/2e4848ad-be38-4b20-83eb-238540871ea4-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/2f425029-c728-47b4-93d2-4c2d117e809e-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/39168b44-3bbb-45f1-9c9b-14376f57b43b-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/3d631e60-6477-4b35-b68e-4b38f88613e2-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/3dc17b83-8396-462e-8e7a-5f2c0efc6ee3-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/442f63b9-1e2c-48d4-abe6-53f5a6710ad5-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/4bbcbeb8-2b41-417f-bfdd-2781fdad2a0a-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/50f20fb7-752b-42d8-b0b0-4fb47c6fb6e5-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/51c0eb9c-02b5-4e19-b33e-e98e7382b065-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/541479b9-15b1-4505-b52a-df42af66a794-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/546aaec1-42a6-48d2-a3d8-e45e8c2407c0-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/54875b0e-ebe8-4935-bd70-d008725bcf1c-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/60b16828-77b3-40ec-8d9c-411e7a040f51-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/6c1f381f-435f-4789-a8bb-e5e6fdb541a7-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/6c5a512d-eefa-478a-86a7-917c05558a7d-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/70905d33-8586-47f2-9d0f-bbe005c1ca92-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/769e1445-be99-4ad9-bf21-3965a1e6018f-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/794100a6-9414-43c5-9200-3341450b348c-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/7bef1860-14fd-4feb-8309-cd832c68cc75-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/82c32ac9-f085-417d-b1a9-be36ccc4d039-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/8573e261-9501-42a1-818c-de3971f304f7-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/8cd95a67-e8ad-4f88-841d-6e11ba5ce733-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/8dd301bd-8988-4509-927b-e37336938038-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/8e5973d7-dc57-4423-930d-cc53a0dcb728-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/8f9ba6ca-e20c-4262-af3c-fe46504677cd-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/905e2c78-2155-4c5a-a844-ba08adad3ff0-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/913e798e-83dd-44e8-a9fc-14f9b9084e44-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/a1aa08e1-3997-4d3c-ab71-a9906d1af3d3-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/a981ee02-8d6d-4fc4-999e-3fdf78c65f7a-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/bcf40b48-5a0f-48bd-9d53-64e9be7ec820-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/bf486982-396d-4dba-8622-8b03984a14d5-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/c01c6701-c5b3-4a56-a417-72fc2f9f85f8-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/c36ced4e-edb0-4851-9154-db807eae04b3-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/c81a0fc2-a5e0-4f22-850a-59cf83202411-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/cdd2ee29-fb7f-4005-bee8-3b3a4cf76df0-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/d3508506-417e-4795-8b44-9e35dd9e5662-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/d9f75f14-f932-4e4e-8d59-b555bb759d68-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/dcfb6ba0-2749-46c0-a878-6aa59cf41dbe-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/e09bd280-e9e3-483d-b085-63b674c93070-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/ee5213d4-d558-42aa-9d29-a449addd1a09-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/ef90903e-e560-45d7-ba4d-71ebbc1c6715-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/f450505f-b390-4ac3-8b79-9ef2e72b0779-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allure_raw/f6dd6c15-1257-481d-b2df-d1bf4948f6c3-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hub3c_api/registration.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/09748a79-4e8e-4db6-b2cd-4cb0c40e94e1-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/0e7e61a2-633d-4f7d-a805-2b16966e770c-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/11c4fc63-0405-49cf-ac98-e0adb97155ed-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/2a5fe2ea-f51d-44d8-b6e3-d4b7f5812544-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/3bc97092-ae04-4b09-b5ad-ebc525b0e651-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/499d7ecd-71ec-45fd-8810-5e79833f055e-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/5684e355-ac51-428b-8f93-96d5c9078bdd-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/5d4c77ef-bf03-46d0-9cb5-6ba760571d21-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/5fb5b7bb-ea2e-4387-a56c-7e7c01d4bb6f-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/70895e87-5c59-4ac6-a97f-04eef4af99ac-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/7de314a1-7b2c-4753-a886-133a60096306-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/8ab3f5aa-3a32-4382-8472-c1dbf934a1d7-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/9051af32-5b2c-4e1d-8a91-d1e740bcbdbc-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/92d851f1-ed9c-45fe-8d06-b16c1e140b80-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/a10c8cd4-75a9-42fb-8a97-2ba670d1f5aa-testsuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/af17866a-c477-433d-9da7-2e1b11bb1174-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/bf963b2b-33e9-4fd7-9cd9-10d43263b3b6-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/c61cf852-859c-4f89-8323-9aba49803995-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/d29af800-205c-41e3-9b64-712d26e9a687-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/d5443b73-0f20-460c-b1af-07302d653a17-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/d5d506a0-5659-49d0-889f-6e5fd496376d-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/db0952f0-0d0e-450a-be8c-b5d19a9a7568-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/e204253d-d169-4e7f-a78c-9159c1bf161c-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/f1f40d0d-4338-447c-ac13-cc9656570293-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/f598fe08-ad30-494b-bbcd-aa66556abba7-attachment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/f90f4b08-818a-47ec-8987-cee224241405-testsuite.xml" />
+    <list default="true" id="420ea33c-ea25-4557-a239-5573bea1cec2" name="Default" comment="progressing on test cases">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/05b9dc4a-1c24-4de4-bb38-0d6307184c5e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/127049a1-6965-4965-9acb-6b51ee2c7d34-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/161097ec-e050-4cd8-868f-f2da098713f8-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/1c3b8571-c126-4385-b482-1d364c05a70e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/23c1dbe1-e137-469f-ae36-9123957ee6c0-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/27142238-2127-41ee-91e5-7bade90b526a-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/298506dd-fdd1-4e83-a6da-8074b1c2f75e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/2b8ee819-d165-4e7e-8012-cae443eea2db-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/2e4848ad-be38-4b20-83eb-238540871ea4-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/2f425029-c728-47b4-93d2-4c2d117e809e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/39168b44-3bbb-45f1-9c9b-14376f57b43b-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/3d631e60-6477-4b35-b68e-4b38f88613e2-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/3dc17b83-8396-462e-8e7a-5f2c0efc6ee3-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/442f63b9-1e2c-48d4-abe6-53f5a6710ad5-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/4bbcbeb8-2b41-417f-bfdd-2781fdad2a0a-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/50f20fb7-752b-42d8-b0b0-4fb47c6fb6e5-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/51c0eb9c-02b5-4e19-b33e-e98e7382b065-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/541479b9-15b1-4505-b52a-df42af66a794-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/546aaec1-42a6-48d2-a3d8-e45e8c2407c0-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/54875b0e-ebe8-4935-bd70-d008725bcf1c-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/60b16828-77b3-40ec-8d9c-411e7a040f51-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/6c1f381f-435f-4789-a8bb-e5e6fdb541a7-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/6c5a512d-eefa-478a-86a7-917c05558a7d-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/70905d33-8586-47f2-9d0f-bbe005c1ca92-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/769e1445-be99-4ad9-bf21-3965a1e6018f-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/794100a6-9414-43c5-9200-3341450b348c-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/7bef1860-14fd-4feb-8309-cd832c68cc75-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/82c32ac9-f085-417d-b1a9-be36ccc4d039-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8573e261-9501-42a1-818c-de3971f304f7-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8cd95a67-e8ad-4f88-841d-6e11ba5ce733-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8dd301bd-8988-4509-927b-e37336938038-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8e5973d7-dc57-4423-930d-cc53a0dcb728-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8f9ba6ca-e20c-4262-af3c-fe46504677cd-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/905e2c78-2155-4c5a-a844-ba08adad3ff0-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/913e798e-83dd-44e8-a9fc-14f9b9084e44-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/a1aa08e1-3997-4d3c-ab71-a9906d1af3d3-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/a981ee02-8d6d-4fc4-999e-3fdf78c65f7a-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/bcf40b48-5a0f-48bd-9d53-64e9be7ec820-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/bf486982-396d-4dba-8622-8b03984a14d5-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/c01c6701-c5b3-4a56-a417-72fc2f9f85f8-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/c36ced4e-edb0-4851-9154-db807eae04b3-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/c81a0fc2-a5e0-4f22-850a-59cf83202411-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/cdd2ee29-fb7f-4005-bee8-3b3a4cf76df0-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/d3508506-417e-4795-8b44-9e35dd9e5662-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/d9f75f14-f932-4e4e-8d59-b555bb759d68-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/dcfb6ba0-2749-46c0-a878-6aa59cf41dbe-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/e09bd280-e9e3-483d-b085-63b674c93070-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/ee5213d4-d558-42aa-9d29-a449addd1a09-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/ef90903e-e560-45d7-ba4d-71ebbc1c6715-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/f450505f-b390-4ac3-8b79-9ef2e72b0779-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/f6dd6c15-1257-481d-b2df-d1bf4948f6c3-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/09748a79-4e8e-4db6-b2cd-4cb0c40e94e1-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/0e7e61a2-633d-4f7d-a805-2b16966e770c-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/11c4fc63-0405-49cf-ac98-e0adb97155ed-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2a5fe2ea-f51d-44d8-b6e3-d4b7f5812544-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/3bc97092-ae04-4b09-b5ad-ebc525b0e651-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/499d7ecd-71ec-45fd-8810-5e79833f055e-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/5684e355-ac51-428b-8f93-96d5c9078bdd-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/5d4c77ef-bf03-46d0-9cb5-6ba760571d21-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/5fb5b7bb-ea2e-4387-a56c-7e7c01d4bb6f-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/70895e87-5c59-4ac6-a97f-04eef4af99ac-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/7de314a1-7b2c-4753-a886-133a60096306-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/8ab3f5aa-3a32-4382-8472-c1dbf934a1d7-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/9051af32-5b2c-4e1d-8a91-d1e740bcbdbc-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/92d851f1-ed9c-45fe-8d06-b16c1e140b80-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/a10c8cd4-75a9-42fb-8a97-2ba670d1f5aa-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/af17866a-c477-433d-9da7-2e1b11bb1174-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/bf963b2b-33e9-4fd7-9cd9-10d43263b3b6-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/c61cf852-859c-4f89-8323-9aba49803995-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/d29af800-205c-41e3-9b64-712d26e9a687-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/d5443b73-0f20-460c-b1af-07302d653a17-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/d5d506a0-5659-49d0-889f-6e5fd496376d-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/db0952f0-0d0e-450a-be8c-b5d19a9a7568-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/e204253d-d169-4e7f-a78c-9159c1bf161c-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/f1f40d0d-4338-447c-ac13-cc9656570293-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/f598fe08-ad30-494b-bbcd-aa66556abba7-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/report/f90f4b08-818a-47ec-8987-cee224241405-testsuite.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.cache/v/cache/lastfailed" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helper/util.py" afterPath="$PROJECT_DIR$/helper/util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/account.py" afterPath="$PROJECT_DIR$/hub3c_api/account.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/job2job.py" afterPath="$PROJECT_DIR$/hub3c_api/job2job.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/projects.py" afterPath="$PROJECT_DIR$/hub3c_api/projects.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_projects.py" afterPath="$PROJECT_DIR$/test_cases_projects.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration/api_config.py" afterPath="$PROJECT_DIR$/configuration/api_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/registration.csv" afterPath="$PROJECT_DIR$/hub3c_api/registration.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/registration.csv" afterPath="$PROJECT_DIR$/registration.csv" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -224,11 +111,41 @@
           <file leaf-file-name="job2job.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/job2job.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="98" column="42" lean-forward="false" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
+                <state relative-caret-position="782">
+                  <caret line="49" column="72" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="72" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test_cases_account.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test_cases_account.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test_cases_job2job.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test_cases_job2job.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="177">
+                  <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="account.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="782">
+                  <caret line="51" column="78" lean-forward="false" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -243,20 +160,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="test_cases_business.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test_cases_business.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="516">
-                  <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="projects.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/projects.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="508">
+                <state relative-caret-position="765">
                   <caret line="188" column="28" lean-forward="false" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
@@ -283,21 +190,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="registration.csv" pinned="false" current-in-tab="true">
+          <file leaf-file-name="registration.csv" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/registration.csv">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/hub3c_api/__init__.py">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+                <state relative-caret-position="68">
+                  <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -327,11 +234,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="test_cases_projects.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="test_cases_projects.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_cases_projects.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="544">
-                  <caret line="186" column="0" lean-forward="false" selection-start-line="185" selection-start-column="12" selection-end-line="186" selection-end-column="0" />
+                <state relative-caret-position="935">
+                  <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#13#0" expanded="true" />
                     <element signature="e#355#1595#0" expanded="false" />
@@ -342,6 +249,26 @@
                     <element signature="e#3948#4542#0" expanded="false" />
                     <element signature="e#4570#4996#0" expanded="false" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="registration.csv" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/hub3c_api/registration.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="api_config.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -390,7 +317,6 @@
         <option value="$PROJECT_DIR$/test_cases_business.py" />
         <option value="$PROJECT_DIR$/test_cases_dashboard.py" />
         <option value="$PROJECT_DIR$/credentials/user_info.py" />
-        <option value="$PROJECT_DIR$/configuration/api_config.py" />
         <option value="$PROJECT_DIR$/hub3c_api/registration.csv" />
         <option value="$PROJECT_DIR$/test_cases_account.py" />
         <option value="$PROJECT_DIR$/hub3c_api/job2job.py" />
@@ -399,13 +325,15 @@
         <option value="$PROJECT_DIR$/test_cases_projects.py" />
         <option value="$PROJECT_DIR$/hub3c_api/projects.py" />
         <option value="$PROJECT_DIR$/registration.csv" />
+        <option value="$PROJECT_DIR$/configuration/api_config.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1924" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -423,6 +351,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -435,32 +364,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="API_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="API_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_cases_projects.py" />
+    <property name="last_opened_file_path" value="D:/Self Project/block_chain_e_voting" />
     <property name="SearchEverywhereHistoryKey" value="PUT&#9;null&#9;null" />
   </component>
-  <component name="RunManager" selected="Python tests.projects_test_cases">
+  <component name="RunManager" selected="Python tests.execute_test_cases">
     <configuration default="false" name="account" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -768,9 +682,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.job2job" />
-        <item index="1" class="java.lang.String" itemvalue="Python.projects" />
-        <item index="2" class="java.lang.String" itemvalue="Python.account" />
+        <item index="0" class="java.lang.String" itemvalue="Python.account" />
+        <item index="1" class="java.lang.String" itemvalue="Python.job2job" />
+        <item index="2" class="java.lang.String" itemvalue="Python.projects" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetest TestJob2job.test_contractor_get_completed_project" />
         <item index="4" class="java.lang.String" itemvalue="Python.test_cases_dashboard" />
       </list>
@@ -818,12 +732,19 @@
       <option name="project" value="LOCAL" />
       <updated>1495188281751</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="progressing on test cases">
+      <created>1495533372597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1495533372597</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="projects_test_cases - 2017.05.22 at 14h 46m 30s.xml">
-      <configuration name="projects_test_cases" configurationId="tests" />
+    <history-entry file="execute_test_cases - 2017.06.22 at 14h 08m 50s.xml">
+      <configuration name="execute_test_cases" configurationId="tests" />
     </history-entry>
     <history-entry file="projects_test_cases - 2017.05.22 at 16h 21m 48s.xml">
       <configuration name="projects_test_cases" configurationId="tests" />
@@ -854,10 +775,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2085954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40697673" sideWeight="0.5041929" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -894,7 +815,8 @@
     <MESSAGE value="add post job" />
     <MESSAGE value="add projects api&#10;" />
     <MESSAGE value="allure" />
-    <option name="LAST_COMMIT_MESSAGE" value="allure" />
+    <MESSAGE value="progressing on test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="progressing on test cases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -903,19 +825,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/credentials/user_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_cases.py" />
     <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1012,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,27 +978,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/registration.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_cases_dashboard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,21 +996,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_account.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_cases_business.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
+        <state relative-caret-position="561">
           <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding />
         </state>
@@ -1127,23 +1011,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allure_report/dd606ac3-dc0b-4ddd-8236-c12a514b14b7-testsuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/allure_report/dd606ac3-dc0b-4ddd-8236-c12a514b14b7-testsuite.xml" />
     <entry file="file://$PROJECT_DIR$/report/1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1151,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1159,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1326">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,46 +1044,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/job2job.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="98" column="42" lean-forward="false" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hub3c_api/document.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/dashboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="51" column="78" lean-forward="false" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_job2job.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1231,26 +1068,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_projects.py">
+    <entry file="file://$PROJECT_DIR$/hub3c_api/dashboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="186" column="0" lean-forward="false" selection-start-line="185" selection-start-column="12" selection-end-line="186" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#355#1595#0" expanded="false" />
-            <element signature="e#1627#1921#0" expanded="false" />
-            <element signature="e#1953#2384#0" expanded="false" />
-            <element signature="e#2413#3446#0" expanded="false" />
-            <element signature="e#3473#3916#0" expanded="false" />
-            <element signature="e#3948#4542#0" expanded="false" />
-            <element signature="e#4570#4996#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hub3c_api/projects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
+        <state relative-caret-position="765">
           <caret line="188" column="28" lean-forward="false" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -1276,10 +1104,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration.csv">
+    <entry file="file://$PROJECT_DIR$/test_cases_projects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#355#1595#0" expanded="false" />
+            <element signature="e#1627#1921#0" expanded="false" />
+            <element signature="e#1953#2384#0" expanded="false" />
+            <element signature="e#2413#3446#0" expanded="false" />
+            <element signature="e#3473#3916#0" expanded="false" />
+            <element signature="e#3948#4542#0" expanded="false" />
+            <element signature="e#4570#4996#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub3c_api/registration.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub3c_api/job2job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="49" column="72" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases_job2job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases_account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="51" column="78" lean-forward="false" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>

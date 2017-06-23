@@ -1,5 +1,0 @@
-Weiss Group
-Jennifer.Stephens@mailinator.com
-
-### Status Code : 400
-{"meta":{"business":{"businessId":0,"profileLastUpdate":0,"teamMemberLastUpdate":0,"lastConnected":0,"lastRequested":0,"lastInvited":0},"user":{"userId":0,"profileLastUpdate":0},"job2Job":null},"status":{"type":"Error","message":"Object reference not set to an instance of an object.","fieldMessages":[]},"data":[]}
