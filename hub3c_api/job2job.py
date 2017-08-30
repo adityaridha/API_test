@@ -8,11 +8,11 @@ date = dt.datetime.utcfromtimestamp(time.time()).strftime("%Y/%m/%d %H:%M")
 
 class Job2jobEmployerAPI():
 
-    def project_list(self):
+    def get_job2job_dashboard(self):
         result = config.api_request(service_url="Job2Job/GetProjectList/514/753/0", request_type="GET")
         return result
 
-    def draft_project(self):
+    def draft_job(self):
         result = config.api_request(service_url="Job2Job/DraftProject/514/753/0", request_type="GET")
         return result
 
@@ -20,7 +20,7 @@ class Job2jobEmployerAPI():
         result = config.api_request(service_url="Job2Job/ShortlistedContractor/514/753/0", request_type="GET")
         return result
 
-    def posted_project(self):
+    def posted_job(self):
         result = config.api_request(service_url="Job2Job/PostedProject/514/753/0", request_type="GET")
         return result
 
@@ -41,27 +41,36 @@ class Job2jobEmployerAPI():
                 "proposedDateFrom":"1494867600",
                 "proposedDateTo":"1495818000",
                 "jobDescription":"Created from API",
-                "fixedPrice":"0","isDraft":"false",
+                "fixedPrice":"0",
+                "isDraft":"false",
                 "isHideJobFromContractor":"false",
                 "isProposedDateLater":"false",
                 "projectTitle":"From python automation {}".format(date),
-                "subSkills":["Software Accounting"]}
+                "subSkills":["Python"]}
 
         result = config.api_request(service_url="Job2Job/JobTimeMaterial/514/753/0",data_body= str(data))
         return  result
 
+    def post_job_fixed_price(self):
+        pass
+
     def edit_draft(self):
         pass
 
-    def reject_contractor(self):
+    def delete_draft(self):
+        pass
+
+    def decline_contractor(self):
         pass
 
     def view_candidates(self):
         pass
 
-    def view_shotliste(self):
+    def view_shortlisted(self):
         pass
 
+    def get_whats_happening(self):
+        pass
 
 class Job2jobContractorAPI():
 

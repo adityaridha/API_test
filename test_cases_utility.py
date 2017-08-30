@@ -16,6 +16,7 @@ class TestUtility():
 
     util = Util()
 
+    @pytest.mark.get_only
     def test_time_zone(self):
-        result = requests.get(url='http://119.9.53.234:6969/api/v1/Utility/TimeZoneList')
+        result = requests.get(url='http://54.206.115.140:6971/api/v1/Utility/TimeZoneList')
         self.util.print_response(result)

@@ -16,15 +16,18 @@ class TestBusiness():
     util = Util()
 
 
+    @pytest.mark.get_only
     def test_get_business(self):
         result = self.business.get_business()
         self.util.print_response(result, verbose = True)
 
+    @pytest.mark.get_only
     def test_get_business_team_member(self):
         result = self.business.get_team_member()
         self.util.print_response(result, verbose=True)
 
-    def test_connected_business(self):
+    @pytest.mark.get_only
+    def test_get_connected_business(self):
         result = self.business.get_connected_business()
         self.util.print_response(result, verbose=True)
 

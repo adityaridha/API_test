@@ -17,26 +17,33 @@ class TestAccount():
     account_api = AccountAPI()
     util = Util()
 
+    @pytest.mark.auth_set
     def test_login(self):
         result = self.account_api.login()
         self.util.print_response(result, verbose=True)
 
+    @pytest.mark.auth_set
     def test_register(self):
         result = self.account_api.register()
         self.util.print_response(result, verbose=True)
 
+    @pytest.mark.get_only
+    @pytest.mark.auth_set
     def test_account_list(self):
         result = self.account_api.account_list()
         self.util.print_response(result, verbose=True)
 
+    @pytest.mark.auth_set
     def test_logout(self):
         result = self.account_api.logout()
         self.util.print_response(result, verbose=True)
 
-    def test_switch_account(self):
+    @pytest.mark.auth_set
+    def pytesttest_switch_account(self):
         result = self.account_api.switch_account()
         self.util.print_response(result, verbose=True)
 
+    @pytest.mark.auth_set
     def test_forgot_password(self):
         result = self.account_api.forgot_password()
         self.util.print_response(result, verbose=True)

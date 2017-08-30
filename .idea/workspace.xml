@@ -2,94 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="420ea33c-ea25-4557-a239-5573bea1cec2" name="Default" comment="progressing on test cases">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/05b9dc4a-1c24-4de4-bb38-0d6307184c5e-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/127049a1-6965-4965-9acb-6b51ee2c7d34-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/161097ec-e050-4cd8-868f-f2da098713f8-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/1c3b8571-c126-4385-b482-1d364c05a70e-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/23c1dbe1-e137-469f-ae36-9123957ee6c0-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/27142238-2127-41ee-91e5-7bade90b526a-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/298506dd-fdd1-4e83-a6da-8074b1c2f75e-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/2b8ee819-d165-4e7e-8012-cae443eea2db-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/2e4848ad-be38-4b20-83eb-238540871ea4-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/2f425029-c728-47b4-93d2-4c2d117e809e-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/39168b44-3bbb-45f1-9c9b-14376f57b43b-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/3d631e60-6477-4b35-b68e-4b38f88613e2-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/3dc17b83-8396-462e-8e7a-5f2c0efc6ee3-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/442f63b9-1e2c-48d4-abe6-53f5a6710ad5-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/4bbcbeb8-2b41-417f-bfdd-2781fdad2a0a-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/50f20fb7-752b-42d8-b0b0-4fb47c6fb6e5-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/51c0eb9c-02b5-4e19-b33e-e98e7382b065-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/541479b9-15b1-4505-b52a-df42af66a794-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/546aaec1-42a6-48d2-a3d8-e45e8c2407c0-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/54875b0e-ebe8-4935-bd70-d008725bcf1c-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/60b16828-77b3-40ec-8d9c-411e7a040f51-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/6c1f381f-435f-4789-a8bb-e5e6fdb541a7-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/6c5a512d-eefa-478a-86a7-917c05558a7d-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/70905d33-8586-47f2-9d0f-bbe005c1ca92-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/769e1445-be99-4ad9-bf21-3965a1e6018f-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/794100a6-9414-43c5-9200-3341450b348c-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/7bef1860-14fd-4feb-8309-cd832c68cc75-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/82c32ac9-f085-417d-b1a9-be36ccc4d039-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8573e261-9501-42a1-818c-de3971f304f7-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8cd95a67-e8ad-4f88-841d-6e11ba5ce733-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8dd301bd-8988-4509-927b-e37336938038-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8e5973d7-dc57-4423-930d-cc53a0dcb728-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/8f9ba6ca-e20c-4262-af3c-fe46504677cd-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/905e2c78-2155-4c5a-a844-ba08adad3ff0-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/913e798e-83dd-44e8-a9fc-14f9b9084e44-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/a1aa08e1-3997-4d3c-ab71-a9906d1af3d3-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/a981ee02-8d6d-4fc4-999e-3fdf78c65f7a-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/bcf40b48-5a0f-48bd-9d53-64e9be7ec820-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/bf486982-396d-4dba-8622-8b03984a14d5-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/c01c6701-c5b3-4a56-a417-72fc2f9f85f8-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/c36ced4e-edb0-4851-9154-db807eae04b3-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/c81a0fc2-a5e0-4f22-850a-59cf83202411-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/cdd2ee29-fb7f-4005-bee8-3b3a4cf76df0-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/d3508506-417e-4795-8b44-9e35dd9e5662-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/d9f75f14-f932-4e4e-8d59-b555bb759d68-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/dcfb6ba0-2749-46c0-a878-6aa59cf41dbe-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/e09bd280-e9e3-483d-b085-63b674c93070-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/ee5213d4-d558-42aa-9d29-a449addd1a09-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/ef90903e-e560-45d7-ba4d-71ebbc1c6715-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/f450505f-b390-4ac3-8b79-9ef2e72b0779-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/allure_raw/f6dd6c15-1257-481d-b2df-d1bf4948f6c3-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/09748a79-4e8e-4db6-b2cd-4cb0c40e94e1-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/0e7e61a2-633d-4f7d-a805-2b16966e770c-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/11c4fc63-0405-49cf-ac98-e0adb97155ed-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2a5fe2ea-f51d-44d8-b6e3-d4b7f5812544-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/3bc97092-ae04-4b09-b5ad-ebc525b0e651-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/499d7ecd-71ec-45fd-8810-5e79833f055e-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/5684e355-ac51-428b-8f93-96d5c9078bdd-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/5d4c77ef-bf03-46d0-9cb5-6ba760571d21-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/5fb5b7bb-ea2e-4387-a56c-7e7c01d4bb6f-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/70895e87-5c59-4ac6-a97f-04eef4af99ac-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/7de314a1-7b2c-4753-a886-133a60096306-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/8ab3f5aa-3a32-4382-8472-c1dbf934a1d7-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/9051af32-5b2c-4e1d-8a91-d1e740bcbdbc-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/92d851f1-ed9c-45fe-8d06-b16c1e140b80-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/a10c8cd4-75a9-42fb-8a97-2ba670d1f5aa-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/af17866a-c477-433d-9da7-2e1b11bb1174-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/bf963b2b-33e9-4fd7-9cd9-10d43263b3b6-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/c61cf852-859c-4f89-8323-9aba49803995-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/d29af800-205c-41e3-9b64-712d26e9a687-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/d5443b73-0f20-460c-b1af-07302d653a17-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/d5d506a0-5659-49d0-889f-6e5fd496376d-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/db0952f0-0d0e-450a-be8c-b5d19a9a7568-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/e204253d-d169-4e7f-a78c-9159c1bf161c-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/f1f40d0d-4338-447c-ac13-cc9656570293-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/f598fe08-ad30-494b-bbcd-aa66556abba7-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/f90f4b08-818a-47ec-8987-cee224241405-testsuite.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.cache/v/cache/lastfailed" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hub3c_api/registration.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases_user_profile.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/API_test.iml" afterPath="$PROJECT_DIR$/.idea/API_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration/api_config.py" afterPath="$PROJECT_DIR$/configuration/api_config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/registration.csv" afterPath="$PROJECT_DIR$/hub3c_api/registration.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/credentials/user_info.py" afterPath="$PROJECT_DIR$/credentials/user_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/account.py" afterPath="$PROJECT_DIR$/hub3c_api/account.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/business.py" afterPath="$PROJECT_DIR$/hub3c_api/business.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/dashboard.py" afterPath="$PROJECT_DIR$/hub3c_api/dashboard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/document.py" afterPath="$PROJECT_DIR$/hub3c_api/document.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/job2job.py" afterPath="$PROJECT_DIR$/hub3c_api/job2job.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hub3c_api/projects.py" afterPath="$PROJECT_DIR$/hub3c_api/projects.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/registration.csv" afterPath="$PROJECT_DIR$/registration.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_account.py" afterPath="$PROJECT_DIR$/test_cases_account.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_business.py" afterPath="$PROJECT_DIR$/test_cases_business.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_dashboard.py" afterPath="$PROJECT_DIR$/test_cases_dashboard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_job2job.py" afterPath="$PROJECT_DIR$/test_cases_job2job.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_projects.py" afterPath="$PROJECT_DIR$/test_cases_projects.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases_utility.py" afterPath="$PROJECT_DIR$/test_cases_utility.py" />
     </list>
     <ignored path=".idea/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,14 +41,14 @@
     <favorites_list name="API_test" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47880796">
+    <splitter split-orientation="horizontal" split-proportion="0.54898334">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="job2job.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/job2job.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="782">
-                  <caret line="49" column="72" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="72" />
+                <state relative-caret-position="1302">
+                  <caret line="96" column="25" lean-forward="false" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
                   </folding>
@@ -120,32 +56,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="test_cases_account.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test_cases_account.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="test_cases_job2job.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test_cases_job2job.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="177">
-                  <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="account.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="782">
-                  <caret line="51" column="78" lean-forward="false" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
-                  <folding />
+                <state relative-caret-position="196">
+                  <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#0#10#0" expanded="true" />
+                    <element signature="e#190#380#0" expanded="false" />
+                    <element signature="e#412#578#0" expanded="false" />
+                    <element signature="e#613#1657#0" expanded="false" />
+                    <element signature="e#1695#1879#0" expanded="false" />
+                    <element signature="e#1919#2129#0" expanded="false" />
+                    <element signature="e#2170#2354#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -153,8 +77,8 @@
           <file leaf-file-name="document.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/document.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <state relative-caret-position="168">
+                  <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -163,28 +87,37 @@
           <file leaf-file-name="projects.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/projects.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="765">
-                  <caret line="188" column="28" lean-forward="false" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
+                <state relative-caret-position="70">
+                  <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
-                    <element signature="e#203#753#0" expanded="false" />
-                    <element signature="e#783#970#0" expanded="false" />
-                    <element signature="e#1000#1698#0" expanded="false" />
-                    <element signature="e#1726#3099#0" expanded="false" />
-                    <element signature="e#3124#4736#0" expanded="false" />
-                    <element signature="e#3161#3286#0" expanded="false" />
-                    <element signature="e#3328#3667#0" expanded="false" />
-                    <element signature="e#3712#4736#0" expanded="false" />
-                    <element signature="e#4766#5380#0" expanded="false" />
-                    <element signature="e#4808#4936#0" expanded="false" />
-                    <element signature="e#4979#4983#0" expanded="false" />
-                    <element signature="e#5028#5032#0" expanded="false" />
-                    <element signature="e#5075#5123#0" expanded="false" />
-                    <element signature="e#5164#5380#0" expanded="false" />
-                    <element signature="e#5406#6379#0" expanded="false" />
-                    <element signature="e#5444#5565#0" expanded="false" />
-                    <element signature="e#5602#5934#0" expanded="false" />
-                    <element signature="e#5972#6336#0" expanded="false" />
+                    <element signature="e#3597#4295#0" expanded="false" />
+                    <element signature="e#3632#3753#0" expanded="false" />
+                    <element signature="e#4323#5696#0" expanded="false" />
+                    <element signature="e#5721#7333#0" expanded="false" />
+                    <element signature="e#5758#5883#0" expanded="false" />
+                    <element signature="e#5925#6264#0" expanded="false" />
+                    <element signature="e#6309#7333#0" expanded="false" />
+                    <element signature="e#7363#7977#0" expanded="false" />
+                    <element signature="e#7405#7533#0" expanded="false" />
+                    <element signature="e#7576#7580#0" expanded="false" />
+                    <element signature="e#7625#7629#0" expanded="false" />
+                    <element signature="e#7672#7720#0" expanded="false" />
+                    <element signature="e#7761#7977#0" expanded="false" />
+                    <element signature="e#8003#8976#0" expanded="false" />
+                    <element signature="e#9005#9364#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="testing.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testing.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="56">
+                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -193,18 +126,31 @@
           <file leaf-file-name="registration.csv" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/registration.csv">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <state relative-caret-position="98">
+                  <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="154">
+                    <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="56" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test_cases_account.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test_cases_account.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+                <state relative-caret-position="308">
+                  <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
                   <folding />
                 </state>
               </provider>
@@ -213,18 +159,18 @@
           <file leaf-file-name="dashboard.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hub3c_api/dashboard.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <state relative-caret-position="280">
+                  <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="business.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="business.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/hub3c_api/business.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                <state relative-caret-position="574">
+                  <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
@@ -237,38 +183,63 @@
           <file leaf-file-name="test_cases_projects.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test_cases_projects.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="935">
-                  <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+                <state relative-caret-position="126">
+                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#13#0" expanded="true" />
-                    <element signature="e#355#1595#0" expanded="false" />
-                    <element signature="e#1627#1921#0" expanded="false" />
-                    <element signature="e#1953#2384#0" expanded="false" />
-                    <element signature="e#2413#3446#0" expanded="false" />
-                    <element signature="e#3473#3916#0" expanded="false" />
-                    <element signature="e#3948#4542#0" expanded="false" />
-                    <element signature="e#4570#4996#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="registration.csv" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/hub3c_api/registration.csv">
+          <file leaf-file-name="test_cases_business.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test_cases_business.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <state relative-caret-position="210">
+                  <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="api_config.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="test_cases_utility.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test_cases_utility.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="test_cases_dashboard.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test_cases_dashboard.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="user_info.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/credentials/user_info.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="api_config.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-                  <folding />
+                <state relative-caret-position="644">
+                  <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -276,7 +247,7 @@
           <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/helper/util.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
+                <state relative-caret-position="28">
                   <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
                   <folding />
                 </state>
@@ -308,25 +279,27 @@
         <option value="$PROJECT_DIR$/configuration/__init__.py" />
         <option value="$PROJECT_DIR$/helper/__init__.py" />
         <option value="$PROJECT_DIR$/test_cases.py" />
-        <option value="$PROJECT_DIR$/hub3c_api/business.py" />
-        <option value="$PROJECT_DIR$/hub3c_api/dashboard.py" />
-        <option value="$PROJECT_DIR$/hub3c_api/document.py" />
         <option value="$PROJECT_DIR$/credentials/__init__.py" />
         <option value="$PROJECT_DIR$/hub3c_api/__init__.py" />
-        <option value="$PROJECT_DIR$/test_cases_job2job.py" />
-        <option value="$PROJECT_DIR$/test_cases_business.py" />
-        <option value="$PROJECT_DIR$/test_cases_dashboard.py" />
-        <option value="$PROJECT_DIR$/credentials/user_info.py" />
         <option value="$PROJECT_DIR$/hub3c_api/registration.csv" />
-        <option value="$PROJECT_DIR$/test_cases_account.py" />
-        <option value="$PROJECT_DIR$/hub3c_api/job2job.py" />
-        <option value="$PROJECT_DIR$/hub3c_api/account.py" />
         <option value="$PROJECT_DIR$/helper/util.py" />
         <option value="$PROJECT_DIR$/test_cases_projects.py" />
-        <option value="$PROJECT_DIR$/hub3c_api/projects.py" />
+        <option value="$PROJECT_DIR$/test_cases_business.py" />
+        <option value="$PROJECT_DIR$/test_cases_dashboard.py" />
+        <option value="$PROJECT_DIR$/test_cases_account.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/registration.csv" />
         <option value="$PROJECT_DIR$/configuration/api_config.py" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/hub3c_api/dashboard.py" />
+        <option value="$PROJECT_DIR$/test_cases_job2job.py" />
+        <option value="$PROJECT_DIR$/hub3c_api/job2job.py" />
+        <option value="$PROJECT_DIR$/credentials/user_info.py" />
+        <option value="$PROJECT_DIR$/hub3c_api/account.py" />
+        <option value="$PROJECT_DIR$/testing.py" />
+        <option value="$PROJECT_DIR$/hub3c_api/projects.py" />
+        <option value="$PROJECT_DIR$/hub3c_api/document.py" />
+        <option value="$PROJECT_DIR$/test_cases_utility.py" />
+        <option value="$PROJECT_DIR$/hub3c_api/business.py" />
       </list>
     </option>
   </component>
@@ -352,6 +325,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -366,13 +340,24 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
-    <property name="last_opened_file_path" value="D:/Self Project/block_chain_e_voting" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="PUT&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python tests.execute_test_cases">
     <configuration default="false" name="account" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -390,9 +375,46 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hub3c_api/account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_cases_dashboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="user_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/credentials" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="API_test" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credentials/user_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dashboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hub3c_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="API_test" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hub3c_api/dashboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -404,9 +426,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="API_test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases_dashboard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="projects" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -416,7 +439,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hub3c_api" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -424,44 +447,10 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hub3c_api/projects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="job2job" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hub3c_api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="API_test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hub3c_api/job2job.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Nosetest TestJob2job.test_contractor_get_completed_project" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="API_test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases_job2job.py" />
-      <option name="CLASS_NAME" value="TestJob2job" />
-      <option name="METHOD_NAME" value="test_contractor_get_completed_project" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -479,6 +468,7 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -491,25 +481,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="API_test" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="API_test" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -541,15 +512,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="API_test" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -562,16 +528,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="API_test" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -596,6 +555,18 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="false" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="projects_test_cases" type="tests" factoryName="py.test">
@@ -620,6 +591,19 @@
       <option name="params" value="--alluredir allure_report" />
       <option name="USE_PARAM" value="true" />
       <option name="USE_KEYWORD" value="false" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir allure_report&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="account_test_cases" type="tests" factoryName="py.test">
@@ -644,6 +628,19 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="false" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="C:\Python\Python_352\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="execute_test_cases" type="tests" factoryName="py.test">
@@ -668,6 +665,19 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="false" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="C:\Python\Python_352\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <list size="8">
@@ -675,20 +685,39 @@
       <item index="1" class="java.lang.String" itemvalue="Python tests.account_test_cases" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.execute_test_cases" />
       <item index="3" class="java.lang.String" itemvalue="Python.account" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_cases_dashboard" />
-      <item index="5" class="java.lang.String" itemvalue="Python.projects" />
-      <item index="6" class="java.lang.String" itemvalue="Python.job2job" />
-      <item index="7" class="java.lang.String" itemvalue="Python tests.Nosetest TestJob2job.test_contractor_get_completed_project" />
+      <item index="4" class="java.lang.String" itemvalue="Python.user_info" />
+      <item index="5" class="java.lang.String" itemvalue="Python.dashboard" />
+      <item index="6" class="java.lang.String" itemvalue="Python.testing" />
+      <item index="7" class="java.lang.String" itemvalue="Python.projects" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.account" />
-        <item index="1" class="java.lang.String" itemvalue="Python.job2job" />
-        <item index="2" class="java.lang.String" itemvalue="Python.projects" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetest TestJob2job.test_contractor_get_completed_project" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_cases_dashboard" />
+        <item index="0" class="java.lang.String" itemvalue="Python.projects" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testing" />
+        <item index="2" class="java.lang.String" itemvalue="Python.account" />
+        <item index="3" class="java.lang.String" itemvalue="Python.user_info" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dashboard" />
       </list>
     </recent_temporary>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="API_test" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -743,14 +772,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="execute_test_cases - 2017.06.22 at 14h 08m 50s.xml">
+    <history-entry file="execute_test_cases - 2017.08.07 at 09h 20m 14s.xml">
       <configuration name="execute_test_cases" configurationId="tests" />
     </history-entry>
-    <history-entry file="projects_test_cases - 2017.05.22 at 16h 21m 48s.xml">
-      <configuration name="projects_test_cases" configurationId="tests" />
+    <history-entry file="execute_test_cases - 2017.08.16 at 14h 56m 57s.xml">
+      <configuration name="execute_test_cases" configurationId="tests" />
     </history-entry>
-    <history-entry file="projects_test_cases - 2017.05.22 at 16h 23m 16s.xml">
-      <configuration name="projects_test_cases" configurationId="tests" />
+    <history-entry file="execute_test_cases - 2017.08.16 at 15h 00m 33s.xml">
+      <configuration name="execute_test_cases" configurationId="tests" />
     </history-entry>
     <history-entry file="projects_test_cases - 2017.05.22 at 16h 24m 22s.xml">
       <configuration name="projects_test_cases" configurationId="tests" />
@@ -778,16 +807,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40697673" sideWeight="0.5041929" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5058824" sideWeight="0.49580714" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40697673" sideWeight="0.49580714" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4299465" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36469343" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -796,6 +829,29 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40697673" sideWeight="0.5041929" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3319239" sideWeight="0.49580714" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43023255" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -820,12 +876,23 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_cases_projects.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/configuration/api_config.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_cases.py" />
     <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -957,232 +1024,203 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python/Python_352/Lib/site-packages/py/_path/local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1662">
-          <caret line="661" column="0" lean-forward="false" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/credentials/user_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python_352/Lib/pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_dashboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_user_profile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_utility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_business.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report/2a5fe2ea-f51d-44d8-b6e3-d4b7f5812544-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python/Python_352/Lib/site-packages/py/_path/local.py" />
+    <entry file="file://C:/Python/Python_352/Lib/pickle.py" />
+    <entry file="file://$PROJECT_DIR$/report/2a5fe2ea-f51d-44d8-b6e3-d4b7f5812544-attachment.txt" />
     <entry file="file://$PROJECT_DIR$/allure_report/dd606ac3-dc0b-4ddd-8236-c12a514b14b7-testsuite.xml" />
-    <entry file="file://$PROJECT_DIR$/report/1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report/0e7e61a2-633d-4f7d-a805-2b16966e770c-attachment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1326">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/report/1df17238-5009-4815-a3fc-03cc81af7480-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/report/0e7e61a2-633d-4f7d-a805-2b16966e770c-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/report.html" />
     <entry file="file://$PROJECT_DIR$/hub3c_api/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/document.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/business.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/helper/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="28">
           <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/dashboard.py">
+    <entry file="file://$PROJECT_DIR$/test_cases_dashboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/projects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="188" column="28" lean-forward="false" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#203#753#0" expanded="false" />
-            <element signature="e#783#970#0" expanded="false" />
-            <element signature="e#1000#1698#0" expanded="false" />
-            <element signature="e#1726#3099#0" expanded="false" />
-            <element signature="e#3124#4736#0" expanded="false" />
-            <element signature="e#3161#3286#0" expanded="false" />
-            <element signature="e#3328#3667#0" expanded="false" />
-            <element signature="e#3712#4736#0" expanded="false" />
-            <element signature="e#4766#5380#0" expanded="false" />
-            <element signature="e#4808#4936#0" expanded="false" />
-            <element signature="e#4979#4983#0" expanded="false" />
-            <element signature="e#5028#5032#0" expanded="false" />
-            <element signature="e#5075#5123#0" expanded="false" />
-            <element signature="e#5164#5380#0" expanded="false" />
-            <element signature="e#5406#6379#0" expanded="false" />
-            <element signature="e#5444#5565#0" expanded="false" />
-            <element signature="e#5602#5934#0" expanded="false" />
-            <element signature="e#5972#6336#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases_user_profile.py" />
     <entry file="file://$PROJECT_DIR$/test_cases_projects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#355#1595#0" expanded="false" />
-            <element signature="e#1627#1921#0" expanded="false" />
-            <element signature="e#1953#2384#0" expanded="false" />
-            <element signature="e#2413#3446#0" expanded="false" />
-            <element signature="e#3473#3916#0" expanded="false" />
-            <element signature="e#3948#4542#0" expanded="false" />
-            <element signature="e#4570#4996#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hub3c_api/registration.csv">
+    <entry file="file://$PROJECT_DIR$/hub3c_api/registration.csv" />
+    <entry file="file://$PROJECT_DIR$/test_cases_job2job.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="476">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
+    <entry file="file://$PROJECT_DIR$/credentials/user_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="336">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hub3c_api/job2job.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="49" column="72" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="72" />
+        <state relative-caret-position="1302">
+          <caret line="96" column="25" lean-forward="false" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases_job2job.py">
+    <entry file="file://$PROJECT_DIR$/hub3c_api/projects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="70">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#3597#4295#0" expanded="false" />
+            <element signature="e#3632#3753#0" expanded="false" />
+            <element signature="e#4323#5696#0" expanded="false" />
+            <element signature="e#5721#7333#0" expanded="false" />
+            <element signature="e#5758#5883#0" expanded="false" />
+            <element signature="e#5925#6264#0" expanded="false" />
+            <element signature="e#6309#7333#0" expanded="false" />
+            <element signature="e#7363#7977#0" expanded="false" />
+            <element signature="e#7405#7533#0" expanded="false" />
+            <element signature="e#7576#7580#0" expanded="false" />
+            <element signature="e#7625#7629#0" expanded="false" />
+            <element signature="e#7672#7720#0" expanded="false" />
+            <element signature="e#7761#7977#0" expanded="false" />
+            <element signature="e#8003#8976#0" expanded="false" />
+            <element signature="e#9005#9364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub3c_api/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_cases_account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="308">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="154">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="56" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hub3c_api/account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="51" column="78" lean-forward="false" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+        <state relative-caret-position="196">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#190#380#0" expanded="false" />
+            <element signature="e#412#578#0" expanded="false" />
+            <element signature="e#613#1657#0" expanded="false" />
+            <element signature="e#1695#1879#0" expanded="false" />
+            <element signature="e#1919#2129#0" expanded="false" />
+            <element signature="e#2170#2354#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub3c_api/dashboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration.csv">
+    <entry file="file://$PROJECT_DIR$/configuration/api_config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="644">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases_business.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/test_cases_utility.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub3c_api/business.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
           <folding />
         </state>
       </provider>

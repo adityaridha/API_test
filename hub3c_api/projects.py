@@ -1,24 +1,32 @@
-import requests
+import datetime
+import pytz
 import time
-import datetime as dt
 from configuration import *
 
 config = GetConfig()
-date = dt.datetime.utcfromtimestamp(time.time()).strftime("%Y/%m/%d %H:%M")
+raw_date= datetime.datetime.now(pytz.timezone('Asia/Jakarta'))
+date= str(raw_date)
+date = date[0:-13]
+
+user = config.user_data()
 
 class ProjectsAPI():
 
     def get_project_list_by_progress(self, state = "New"):
-        result = config.api_request(service_url="Project/GetProjectListByProgress/514/753/0/{}".format(state), request_type="GET")
-        return result
+        return config.api_request(service_url="Project/GetProjectListByProgress/{}/753/0/{}".format(
+            user.business_id, user.system_user_id, state), request_type="GET")
 
     def get_project_detail(self):
-        result = config.api_request(service_url="Project/GetProjectDetail/514/753/0/493", request_type="GET")
-        return result
+        return config.api_request(service_url="Project/GetProjectDetail/514/753/0/493".format(
+            user.business_id, user.system_user_id), request_type="GET")
 
     def get_project_notification(self):
-        result = config.api_request(service_url="Project/ProjectNotification/514/753/0/493", request_type="GET")
-        return result
+        return config.api_request(service_url="Project/ProjectNotification/514/753/0/493".format(
+            user.business_id, user.system_user_id), request_type="GET")
+
+    def get_archived_project(self):
+        return  config.api_request(service_url="projects?SystemUserId={}&StatusTypeName=Archived".format(
+            user.system_user_id), request_type="GET")
 
 class ActivitiesAPI():
 
@@ -26,7 +34,68 @@ class ActivitiesAPI():
         result = config.api_request(service_url="Project/Activities/753/493", request_type="GET")
         return result
 
+    def edit_activity(self):
+        data = {"budgetMoney":"0.0",
+                "budgetHours":"0.0",
+                "activityTypeCode":"5",
+                "assignedToId":"2608",
+                "actualStartDate":"0",
+                "actualEndDate":"1502242920",
+                "proposedEndDate":"{}".format(int(time.time())+500000),
+                "proposedStartDate":"1492401600",
+                "description":"Edit from python script",
+                "isBillAble":"true",
+                "isMarkAsCompleted":"false",
+                "parentActivityId":"",
+                "percentageCompleted":"99",
+                "predecessorActivityIds":[],
+                "priorityCode":"2",
+                "reminderDate":"0",
+                "isRequireSignOff":"false",
+                "requireSignedOffBy":"",
+                "sequence":"0",
+                "statusId":"4",
+                "statusUpdate":"",
+                "subject":"For API automation edit {}".format(date),
+                "systemUserId":"753"}
+
+        result = config.api_request(service_url="projects/1939/activities/2119", data_body=str(data))
+        return result
+
     def add_activity(self):
+        data = {"budgetMoney":"0",
+                "budgetHours":"0",
+                "activityTypeCode":"1",
+                "assignedToId":"3596",
+                "actualStartDate":"0",
+                "actualEndDate":"0",
+                "proposedEndDate":"",
+                "proposedStartDate":"1502268540",
+                "description":"",
+                "isBillAble":"true",
+                "isMarkAsCompleted":"false",
+                "parentActivityId":"",
+                "percentageCompleted":"0",
+                "predecessorActivityIds":[],
+                "priorityCode":"2",
+                "reminderDate":"0",
+                "isRequireSignOff":"false",
+                "requireSignedOffBy":"",
+                "sequence":"0",
+                "statusId":"1",
+                "statusUpdate":"",
+                "subject":"API automation {}".format(date)}
+
+        result = config.api_request(service_url="Project/AddActivity/1939/753", data_body=str(data))
+        return result
+
+    def mark_as_comp_incomp(self):
+        pass
+
+    def alert_me(self):
+        pass
+
+    def delete_activity(self):
         pass
 
 class TeamMemberAPI():
@@ -189,36 +258,40 @@ if __name__ == "__main__" :
     bulletin = BulletinAPI()
     team_member = TeamMemberAPI()
     notes = NotesAPI()
-    print(projects.get_project_list_by_progress(state="New").text)
-    print(projects.get_project_list_by_progress(state="InProgress").text)
-    print(projects.get_project_list_by_progress(state="OnHold").text)
-    print(projects.get_project_list_by_progress(state="Cancelled").text)
-    print(projects.get_project_list_by_progress(state="Complete").text)
-    print(projects.get_project_detail().json()["status"]['type'])
-    print(projects.get_project_notification().json())
+    activities = ActivitiesAPI()
+    print(activities.edit_activity().text)
+    print(activities.add_activity().text)
+    # print(projects.get_archived_project().text)
+    # print(projects.get_project_list_by_progress(state="New").text)
+    # print(projects.get_project_list_by_progress(state="InProgress").text)
+    # print(projects.get_project_list_by_progress(state="OnHold").text)
+    # print(projects.get_project_list_by_progress(state="Cancelled").text)
+    # print(projects.get_project_list_by_progress(state="Complete").text)
+    # print(projects.get_project_detail().json()["status"]['type'])
+    # print(projects.get_project_notification().json())
 
     #TeamMember
-    print(team_member.get_team_member().json())
-    print(team_member.update_team_member().json())
+    # print(team_member.get_team_member().json())
+    # print(team_member.update_team_member().json())
 
     # Bulletin
-    print(bulletin.get_project_bulletin().json()["data"])
-    print(bulletin.get_project_bulletin_comment().json()["data"])
-    print(bulletin.like_unlike_bulletin())
-    print(bulletin.create_bulletin().text)
-    print(bulletin.create_bulletin_comment().text)
-    print(bulletin.update_project_bulletin().status_code)
+    # print(bulletin.get_project_bulletin().json()["data"])
+    # print(bulletin.get_project_bulletin_comment().json()["data"])
+    # print(bulletin.like_unlike_bulletin())
+    # print(bulletin.create_bulletin().text)
+    # print(bulletin.create_bulletin_comment().text)
+    # print(bulletin.update_project_bulletin().status_code)
 
     # projectnotes
-    print(notes.update_project_note())
+    # print(notes.update_project_note())
 
     # attachment
-    attachment = AttachmentAPI()
-    print(attachment.edit_attachment())
+    # attachment = AttachmentAPI()
+    # print(attachment.edit_attachment())
 
     # agenda
-    agenda = AgendaAPI()
-    print(agenda.get_project_agenda().json())
-    print(agenda.add_agenda())
+    # agenda = AgendaAPI()
+    # print(agenda.get_project_agenda().json())
+    # print(agenda.add_agenda())
 
 

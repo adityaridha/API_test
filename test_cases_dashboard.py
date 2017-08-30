@@ -15,6 +15,7 @@ class TestDashboard():
     dashboard_api = DashboardAPI()
     util = Util()
 
+    @pytest.mark.get_only
     def test_dashboard(self):
         result = self.dashboard_api.get_dashboard()
         self.util.print_response(result, verbose=True)

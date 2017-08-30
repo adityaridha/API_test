@@ -11,12 +11,4 @@ class DocumentAPI():
 
 
 if __name__ == "__main__" :
-    dashboard = DashboardAPI()
-    print (dashboard.get_dashboard().text)
-
-
-
-
-
-
-
+    print('test')
